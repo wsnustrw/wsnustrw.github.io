@@ -45961,7 +45961,7 @@
     aF.install({
         THREE: i
     });
-    var sF = "/estudionkcdn.sfo3.cdn.digitaloceanspaces.com/scene/assets",
+    var sF = "https://estudionkcdn.sfo3.cdn.digitaloceanspaces.com/scene/assets",
         lF = function(t) {
             var e = 0,
                 n = window.innerWidth,
