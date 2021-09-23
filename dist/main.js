@@ -69019,8 +69019,8 @@
                 this.isContact ? new ZF(y(".js-form"),"/api/email","Send",{
                     type: "contact",
                     from: '"seeyoudesign" hi@seeyoudesign.website',
-                    to: "seeyoudesign.web@gmail.com,
-                    subject: "Halo Seeyoudesign"
+                    to: "seeyoudesign.web@gmail.com",
+                    subject: "Halo Seeyoudesign",
                 }) : new ZF(y(".js-form"),"/api/email?careers=true","Send",{
                     type: "careers",
                     from: '"seeyoudesign" hi@seeyoudesign.website',
