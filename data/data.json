@@ -1,0 +1,1438 @@
+{
+	"projects": [
+		{
+			"id": "project-1",
+			"title": "GUNNA FREYR",
+			"imageFeat": "/images/projects/01-Gunnar_Freyr/feat_gunnar.jpg",
+			"desc": "Gunnar is a Reykjavik based photographer, storyteller and creative entrepreneur. He was born in Denmark by Icelandic parents and in 2014, he decided to quit his corporate job to satisfy his desire for adventure.<br /><br />Confronted with the unexpected realities of 2020, Gunnar audited his online presence and made a plan for adaptation. The end result is his newly redesigned website, which expands his online presence from a straightforward portfolio and print shop to a scalable digital infrastructure for long term success.<br /><br />The website itself is designed to seamlessly weave together Gunnar’s personal tone, style and love of his country in a usable and beautiful experience.",
+			"credits": "ART DIRECTION   •   LIONEL TAURUS<br />MOTION DESIGN   •   LIONEL TAURUS<br />COMPANY   •   SQUARESPACE",
+			"url":"https://www.icelandicexplorer.com/",
+			"slides": [
+				{
+					"image": "/images/projects/01-Gunnar_Freyr/1.jpg"
+				},
+				{
+					"image": "/images/projects/01-Gunnar_Freyr/2.jpg"
+				},
+				{
+					"image": "/images/projects/01-Gunnar_Freyr/3.jpg"
+				},
+				{
+					"image": "/images/projects/01-Gunnar_Freyr/4.jpg"
+				},
+				{
+					"image": "/images/projects/01-Gunnar_Freyr/5.jpg"
+				},
+				{
+					"image": "/images/projects/01-Gunnar_Freyr/6.jpg"
+				},
+				{
+					"image": "/images/projects/01-Gunnar_Freyr/7.jpg"
+				},
+				{
+					"image": "/images/projects/01-Gunnar_Freyr/8.jpg"
+				},
+				{
+					"image": "/images/projects/01-Gunnar_Freyr/9.jpg"
+				},
+				{
+					"image": "/images/projects/01-Gunnar_Freyr/10.jpg"
+				},
+				{
+					"image": "/images/projects/01-Gunnar_Freyr/11.jpg"
+				},
+				{
+					"image": "/images/projects/01-Gunnar_Freyr/12.jpg"
+				},
+				{
+					"image": "/images/projects/01-Gunnar_Freyr/13.jpg"
+				},
+				{
+					"image": "/images/projects/01-Gunnar_Freyr/14.jpg"
+				}
+			]
+		},
+		{ 
+			"id": "project-2",
+			"title": "VC SWIPE",
+			"imageFeat": "/images/projects/02-VC_swipe/feat_vcswipe.jpg",
+			"desc": "Ideas are everywhere. They start businesses. change communities or go on to transform the world. But ideas alone are not enough.<br /><br />VC Swipe began with the belief that it is only when the right people come together to work on an idea great things can happen, and that the way early-stage fundraising works has yet to arrive in our century. Platforms define our modern way of interacting with each other - and VC SWIPE is a new beginning for interacting in fundraising.",
+			"credits": "CREATIVE DIRECTION   •   MARVIN SCHWAIBOLD<br />ART DIRECTION & 3D   •   LIONEL TAURUS<br />UX DESIGN   •   LUKAS KMOTH<br />DEV   •   JESPER LANDBERG",
+			"url":"https://www.vcswipe.com/",
+			"slides": [
+				{
+					"image": "/images/projects/02-VC_swipe/01.jpg"
+				},
+				{
+					"image": "/images/projects/02-VC_swipe/02.jpg"
+				},
+				{
+					"image": "/images/projects/02-VC_swipe/03.jpg"
+				},
+				{
+					"image": "/images/projects/02-VC_swipe/04.jpg"
+				},
+				{
+					"image": "/images/projects/02-VC_swipe/05.jpg"
+				},
+				{
+					"image": "/images/projects/02-VC_swipe/06.jpg"
+				},
+				{
+					"image": "/images/projects/02-VC_swipe/07.jpg"
+				},
+				{
+					"image": "/images/projects/02-VC_swipe/08.jpg"
+				},
+				{
+					"image": "/images/projects/02-VC_swipe/09.jpg"
+				},
+				{
+					"image": "/images/projects/02-VC_swipe/10.jpg"
+				},
+				{
+					"image": "/images/projects/02-VC_swipe/11.jpg"
+				},
+				{
+					"image": "/images/projects/02-VC_swipe/12.jpg"
+				},
+				{
+					"image": "/images/projects/02-VC_swipe/13.jpg"
+				},
+				{
+					"image": "/images/projects/02-VC_swipe/14.jpg"
+				}
+			]
+		},
+		{ 
+			"id": "project-3",
+			"title": "SQSP CREATIVE DEPT.",
+			"imageFeat": "/images/projects/03-SQSP_creative_dept/feat_creativeblog.jpg",
+			"desc": "Despite being a tech company, design is at the heart of everything we do at Squarespace. As a leader in web design, Squarespace is constantly challenging itself and its customers to break the boundaries of creativity. Our in-house creative team has showcased their creativity and thought leadership on design by creating a dynamic blog that will serve as a hub for innovative web design elements and musings on web, product, and brand design.<br /><br />The Creative Department blog is also an extension of the movement we introduced to our brand identity at the end of last year, and we’ll continue to demonstrate new ways of experiencing the websites by playing around with motion in web design.",
+			"credits": "INTERACTION DESIGN   •   LIONEL TAURUS<br />MOTION DESIGN   •   LIONEL TAURUS<br />COMPANY   •   SQUARESPACE",
+			"url":"https://creative.squarespace.com/",
+			"slides": [
+				{
+					"image": "/images/projects/03-SQSP_creative_dept/00.jpg"
+				},
+				{
+					"image": "/images/projects/03-SQSP_creative_dept/01.jpg"
+				},
+				{
+					"image": "/images/projects/03-SQSP_creative_dept/02.jpg"
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/03-SQSP_creative_dept/03.mp4",
+						"webm": "/images/projects/03-SQSP_creative_dept/03.webm"
+					}
+				},
+				{
+					"image": "/images/projects/03-SQSP_creative_dept/04.jpg"
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/03-SQSP_creative_dept/05.mp4",
+						"webm": "/images/projects/03-SQSP_creative_dept/05.webm"
+					}
+				},
+				{
+					"image": "/images/projects/03-SQSP_creative_dept/06.jpg"
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/03-SQSP_creative_dept/07.mp4",
+						"webm": "/images/projects/03-SQSP_creative_dept/07.webm"
+					}
+				},
+				{
+					"image": "/images/projects/03-SQSP_creative_dept/08.jpg"
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/03-SQSP_creative_dept/09.mp4",
+						"webm": "/images/projects/03-SQSP_creative_dept/09.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/03-SQSP_creative_dept/10.mp4",
+						"webm": "/images/projects/03-SQSP_creative_dept/10.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/03-SQSP_creative_dept/11.mp4",
+						"webm": "/images/projects/03-SQSP_creative_dept/11.webm"
+					}
+				}
+			]
+		},
+		{ 
+			"id": "project-4",
+			"title": "CONCEPTS",
+			"imageFeat": "/images/projects/04-Web_Concepts/feat_web_concept.jpg",
+			"desc":"Concepts* is a creatively driven collaborative team with a goal of augmenting and building upon the current product, while also concepting future products.<br /><br />The goal is to bring the Squarespace platform up to the current web standard and improve upon it through filling existing gaps while also owning progressive enhancements and new conceptual product initiatives. Here’s a glimpse of some design explorations I’ve conducted those last years within the team.",
+			"credits": "ART DIRECTION   •   LIONEL TAURUS<br />MOTION DESIGN   •   LIONEL TAURUS<br />COMPANY   •   SQUARESPACE",
+			"slides": [
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/index/index_advanced_wave.mp4",
+						"webm": "/images/projects/04-Web_Concepts/index/index_advanced_wave.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/index/index_attractor.mp4",
+						"webm": "/images/projects/04-Web_Concepts/index/index_attractor.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/index/index_bendy.mp4",
+						"webm": "/images/projects/04-Web_Concepts/index/index_bendy.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/index/index_circus.mp4",
+						"webm": "/images/projects/04-Web_Concepts/index/index_circus.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/index/index_hint.mp4",
+						"webm": "/images/projects/04-Web_Concepts/index/index_hint.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/index/index_house_of_cards.mp4",
+						"webm": "/images/projects/04-Web_Concepts/index/index_house_of_cards.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/index/index_infinite_index.mp4",
+						"webm": "/images/projects/04-Web_Concepts/index/index_infinite_index.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/index/index_interstellar.mp4",
+						"webm": "/images/projects/04-Web_Concepts/index/index_interstellar.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/index/index_isostack.mp4",
+						"webm": "/images/projects/04-Web_Concepts/index/index_isostack.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/index/index_physics.mp4",
+						"webm": "/images/projects/04-Web_Concepts/index/index_physics.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/index/index_polish_dance.mp4",
+						"webm": "/images/projects/04-Web_Concepts/index/index_polish_dance.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/index/index_pop_up.mp4",
+						"webm": "/images/projects/04-Web_Concepts/index/index_pop_up.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/index/index_shakeit.mp4",
+						"webm": "/images/projects/04-Web_Concepts/index/index_shakeit.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/index/index_shift.mp4",
+						"webm": "/images/projects/04-Web_Concepts/index/index_shift.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/index/index_space_cube_1.mp4",
+						"webm": "/images/projects/04-Web_Concepts/index/index_space_cube_1.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/index/index_spacecube_3.mp4",
+						"webm": "/images/projects/04-Web_Concepts/index/index_spacecube_3.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/index/index_stretched_stack.mp4",
+						"webm": "/images/projects/04-Web_Concepts/index/index_stretched_stack.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/index/index_the_lift.mp4",
+						"webm": "/images/projects/04-Web_Concepts/index/index_the_lift.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/index/index_the_room.mp4",
+						"webm": "/images/projects/04-Web_Concepts/index/index_the_room.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/index/index_ticker_frame_1.mp4",
+						"webm": "/images/projects/04-Web_Concepts/index/index_ticker_frame_1.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/index/index_unfold.mp4",
+						"webm": "/images/projects/04-Web_Concepts/index/index_unfold.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/index/index_vinyl_complete.mp4",
+						"webm": "/images/projects/04-Web_Concepts/index/index_vinyl_complete.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/text/2_split.mp4",
+						"webm": "/images/projects/04-Web_Concepts/text/2_split.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/text/advanced_typewriter_1.mp4",
+						"webm": "/images/projects/04-Web_Concepts/text/advanced_typewriter_1.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/text/bender_2.mp4",
+						"webm": "/images/projects/04-Web_Concepts/text/bender_2.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/text/blind.mp4",
+						"webm": "/images/projects/04-Web_Concepts/text/blind.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/text/blurry_smoothie.mp4",
+						"webm": "/images/projects/04-Web_Concepts/text/blurry_smoothie.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/text/compressor.mp4",
+						"webm": "/images/projects/04-Web_Concepts/text/compressor.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/text/escalator_1.mp4",
+						"webm": "/images/projects/04-Web_Concepts/text/escalator_1.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/text/eurovision.mp4",
+						"webm": "/images/projects/04-Web_Concepts/text/eurovision.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/text/flip.mp4",
+						"webm": "/images/projects/04-Web_Concepts/text/flip.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/text/gentle_disease.mp4",
+						"webm": "/images/projects/04-Web_Concepts/text/gentle_disease.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/text/gentle_glitch.mp4",
+						"webm": "/images/projects/04-Web_Concepts/text/gentle_glitch.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/text/gentle_glitch_2.mp4",
+						"webm": "/images/projects/04-Web_Concepts/text/gentle_glitch_2.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/text/gentle_tv.mp4",
+						"webm": "/images/projects/04-Web_Concepts/text/gentle_tv.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/text/inset_shade.mp4",
+						"webm": "/images/projects/04-Web_Concepts/text/inset_shade.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/text/inside_frame.mp4",
+						"webm": "/images/projects/04-Web_Concepts/text/inside_frame.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/text/jack_ripple.mp4",
+						"webm": "/images/projects/04-Web_Concepts/text/jack_ripple.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/text/keep_it_secret.mp4",
+						"webm": "/images/projects/04-Web_Concepts/text/keep_it_secret.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/text/liquid_xray.mp4",
+						"webm": "/images/projects/04-Web_Concepts/text/liquid_xray.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/text/magic_pong.mp4",
+						"webm": "/images/projects/04-Web_Concepts/text/magic_pong.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/text/maladroit_slide.mp4",
+						"webm": "/images/projects/04-Web_Concepts/text/maladroit_slide.webm"
+					}
+				},
+
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/text/mayhem_glitch.mp4",
+						"webm": "/images/projects/04-Web_Concepts/text/mayhem_glitch.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/text/monet.mp4",
+						"webm": "/images/projects/04-Web_Concepts/text/monet.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/text/sidewise.mp4",
+						"webm": "/images/projects/04-Web_Concepts/text/sidewise.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/text/staggered_line.mp4",
+						"webm": "/images/projects/04-Web_Concepts/text/staggered_line.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/text/tunnel.mp4",
+						"webm": "/images/projects/04-Web_Concepts/text/tunnel.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/text/typewriter.mp4",
+						"webm": "/images/projects/04-Web_Concepts/text/typewriter.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/background/case_1.mp4",
+						"webm": "/images/projects/04-Web_Concepts/background/case_1.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/background/case_2.mp4",
+						"webm": "/images/projects/04-Web_Concepts/background/case_2.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/background/case_3.mp4",
+						"webm": "/images/projects/04-Web_Concepts/background/case_3.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/background/case_4.mp4",
+						"webm": "/images/projects/04-Web_Concepts/background/case_4.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/background/case_5.mp4",
+						"webm": "/images/projects/04-Web_Concepts/background/case_5.webm"
+					}
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/04-Web_Concepts/background/case_6.mp4",
+						"webm": "/images/projects/04-Web_Concepts/background/case_6.webm"
+					}
+				}
+			]
+		},
+		{ 
+			"id": "project-5",
+			"title": "SPEAK YOUR MIND",
+			"imageFeat": "/images/projects/05-Speak_your_mind/feat_speakyourmind.jpg",
+			"desc": "SPEAK YOUR MIND is a digital experience to bring awareness to the importance of communicating about mental health.<br /><br />Squarespace has partnered with Secret 7” and Mind to bring awareness to the importance of communicating about mental health – and to give people a platform to speak their minds.",
+			"credits": "ART DIRECTION   •   LIONEL TAURUS<br />MOTION DESIGN   •   LIONEL TAURUS<br />COMPANY   •   SQUARESPACE",
+			"url":"https://speakyourmind.squarespace.com/",
+			"slides": [
+				{
+					"image": "/images/projects/05-Speak_your_mind/1.jpg",
+					"desc":"Squarespace has partnered with Secret 7 and Mind to bring awareness to the importance of communicating about mental health and to give people a platform to speak their minds.<br /><br />As a brand that empowers millions of people to share their ideas with the world, we know the importance of using human expression to connect with others. One in four people struggle with their mental health. We believe no one should have to stay silent on this issue or have to face it alone."
+				},
+				{
+					"image": "/images/projects/05-Speak_your_mind/2.jpg"				
+				},
+				{
+					"video": {
+						"mp4": "/images/projects/05-Speak_your_mind/3.mp4",
+						"webm": "/images/projects/05-Speak_your_mind/3.webm"
+					},
+					"desc":"The site leverages innovative generative design solutions that were developed in partnership with the creative studio DIA and Zach Lieberman.<br /><br />As a 2018 partner of Secret 7 exhibition, our team has created a website experience that allows visitors to speak their minds through a unique interface inspired by each track of the Secret 7 project. This website enables people to express themselves while supporting this year's Secret 7 charity partner, Mind."
+				},
+				{
+					"image": "/images/projects/05-Speak_your_mind/4.jpg"
+				},
+				{
+					"image": "/images/projects/05-Speak_your_mind/5.jpg"
+				},
+				{
+					"image": "/images/projects/05-Speak_your_mind/6.jpg"
+				},
+				{
+					"image": "/images/projects/05-Speak_your_mind/7.jpg"
+				},
+				{
+					"image": "/images/projects/05-Speak_your_mind/8.jpg"
+				},
+				{
+					"image": "/images/projects/05-Speak_your_mind/9.jpg"
+				}
+			]
+		},
+		{ 
+			"id": "project-6",
+			"title": "GOOGLE CLOUD",
+			"imageFeat": "/images/projects/06-Google_cloud/feat_googlecloud.jpg",
+			"desc": "Google Cloud Platform has 9 regions, 27 zones, over 100 points of presence, and a global network comprised of hundreds of thousands of miles of private fiber optic cable.The many intricate processes and functions that make this marvel possible deserves a closer look.<br /><br />Here are some of my explorations for this project from concepts to the final product.",
+			"credits": "ART DIRECTION & 3D   •   LIONEL TAURUS<br />COMPANY   •   HELLO MONDAY",
+			"url":"https://cloud.withgoogle.com/infrastructure",
+			"slides": [
+				{
+					"image": "/images/projects/06-Google_cloud/1.jpg"
+				},
+				{
+					"image": "/images/projects/06-Google_cloud/2.jpg"
+				},
+				{
+					"image": "/images/projects/06-Google_cloud/3.jpg"
+				},
+				{
+					"image": "/images/projects/06-Google_cloud/4.jpg"
+				},
+				{
+					"image": "/images/projects/06-Google_cloud/5.jpg"
+				},
+				{
+					"image": "/images/projects/06-Google_cloud/6.jpg"
+				},
+				{
+					"image": "/images/projects/06-Google_cloud/7.jpg"
+				},
+				{
+					"image": "/images/projects/06-Google_cloud/8.jpg"
+				},
+				{
+					"image": "/images/projects/06-Google_cloud/9.jpg"
+				},
+				{
+					"image": "/images/projects/06-Google_cloud/10.jpg"
+				},
+				{
+					"image": "/images/projects/06-Google_cloud/11.jpg"
+				},
+				{
+					"image": "/images/projects/06-Google_cloud/12.jpg"
+				},
+				{
+					"image": "/images/projects/06-Google_cloud/13.jpg"
+				},
+				{
+					"image": "/images/projects/06-Google_cloud/14.jpg"
+				},
+				{
+					"image": "/images/projects/06-Google_cloud/15.jpg"
+				},
+				{
+					"image": "/images/projects/06-Google_cloud/16.jpg"
+				},
+				{
+					"image": "/images/projects/06-Google_cloud/17.jpg"
+				},
+				{
+					"image": "/images/projects/06-Google_cloud/18.jpg"
+				},
+				{
+					"image": "/images/projects/06-Google_cloud/19.jpg"
+				}
+			]
+		},
+		{ 
+			"id": "project-7",
+			"title": "ESPN: WE THE FANS",
+			"imageFeat": "/images/projects/07-ESPN/feat_espn.jpg",
+			"desc":"WE THE FANS by ESPN is a project telling the stories of the Chicago Bears fans. It’s a multiplatform storytelling project about life and love as a football fan.<br /><br />The digital experience is mobile-first, video-centric and capture the major characters, themes, energy and scope of the series. Here are some of my explorations for this project from concepts to the final product.",
+			"credits":"ART DIRECTION & 3D   •   LIONEL TAURUS<br />COMPANY   •   HELLO MONDAY",
+			"url":"http://www.espn.com/espn/feature/story/_/id/19045647/we-fans-documentary-official-site-espn",
+			"slides": [
+				{
+					"image": "/images/projects/07-ESPN/1.jpg"					
+				},
+				{
+					"image": "/images/projects/07-ESPN/2.jpg"
+				},
+				{
+					"image": "/images/projects/07-ESPN/3.jpg"					
+				},
+				{
+					"image": "/images/projects/07-ESPN/4.jpg"
+				},
+				{
+					"image": "/images/projects/07-ESPN/5.jpg"					
+				},
+				{
+					"image": "/images/projects/07-ESPN/6.jpg"
+				},
+				{
+					"image": "/images/projects/07-ESPN/7.jpg"					
+				},
+				{
+					"image": "/images/projects/07-ESPN/8.jpg"
+				},
+				{
+					"image": "/images/projects/07-ESPN/9.jpg"
+				}
+			]
+		},
+		{ 
+			"id": "project-8",
+			"title": "LG V20",
+			"imageFeat": "/images/projects/08-LG/feat_lg.jpg",
+			"desc":"Capture Life In Motion. This project is the result of a collaboration with LG and Hello Monday. We designed a product design page for the launch of their new phone, the LG V20. Here's a part of the design development I created for this project.",
+			"credits":"ART DIRECTION   •   LIONEL TAURUS<br />COMPANY   •   HELLO MONDAY",
+			"slides": [
+				{
+					"desc":"This project was a little complicated because we started without any content and branding guides for the phone..(no informations about the phone, the colors, the tone..). My first reaction was to create a website around pictures to explain the features of the phone in a simple layout. Since Samsung is dark, bold and surrealistic, Apple is light, elegant but elistist and too perfect, we wanted to create something different for LG by giving them a more authentic, warmer and friendlier touch.",
+					"image": "/images/projects/08-LG/1.jpg"
+				},
+				{
+					"desc":"After a couple of weeks, we knew a little more: the phone would have a branding style using a lot of bright colors. I tried to use this information to quickly create a new idea based on a deconstructed grid with modules using bright colors picked from new images.",
+					"image": "/images/projects/08-LG/2.jpg"
+				},
+				{
+					"image": "/images/projects/08-LG/3.jpg"
+				},
+				{
+					"desc":"The final design is using the colors of the LG V20 lockscreen which was provided later by the LG team for the branding of the phone. I kept the grid idea and used some of the colors to highlight details of the phone and display animated icons. This project was a challenge because I had to design something that could work with colors very flashy withought knowing them and without any description of the features until the last week (yes, it was crazy..!), it was a good exercice to see how I could design something simple and let it completely flexible for the client without changing the entire design at the end of the project.",
+					"image": "/images/projects/08-LG/4.jpg"
+				},
+				{
+					"image": "/images/projects/08-LG/5.jpg"
+				},
+				{
+					"image": "/images/projects/08-LG/6.jpg"
+				}
+			]
+
+		},
+		{ 
+			"id": "project-9",
+			"title": "MTV",
+			"imageFeat": "/images/projects/09-MTV/feat_mtv.jpg",
+			"desc":"MTV Bump is a digital platform that lets people around the world create video art breaks. Adequately named -bumps-, these user generated creations run in between commercials. We created a platform to let MTV fans create their own bump with videos and artworks to air on TV. From the point of creation to approval a bump can make it on air in as little as two hours.",
+			"credits":"DESIGN   •   LIONEL TAURUS<br />COMPANY   •   B-REEL",
+			"slides": [
+				{
+					"image": "/images/projects/09-MTV/1.jpg"
+				},
+				{
+					"image": "/images/projects/09-MTV/2.jpg"
+				},
+				{
+					"image": "/images/projects/09-MTV/3.jpg"
+				},
+				{
+					"image": "/images/projects/09-MTV/4.jpg"
+				},
+				{
+					"image": "/images/projects/09-MTV/5.jpg"
+				},
+				{
+					"image": "/images/projects/09-MTV/6.jpg"
+				},
+				{
+					"image": "/images/projects/09-MTV/7.jpg"
+				},
+				{
+					"image": "/images/projects/09-MTV/8.jpg"
+				}
+			]
+		},
+		{ 
+			"id": "project-10",
+			"title": "NIXON THE MISSION",
+			"imageFeat": "/images/projects/10-Nixon/feat_nixon.jpg",
+			"desc":"Nixon The Mission is a  smartwatch for surfers and snowboarders. This was their first sport smartwatch after being a leading company in traditional high quality timepieces. They wanted their active customers to get the most out of their lifestyle.<br /><br />B-Reel Creative NYC and Cinco collaborated to help them create the design of this new product. This case study showcase the design I created from the exploration phase to the final product.",
+			"credits":"ART DIRECTION   •   LIONEL TAURUS<br />COMPANY   •   B-REEL",
+			"url":"https://www.nixon.com/us/en/smart",
+			"slides": [
+				{
+					"desc":"In the first phase of the project, I explored how we could use the design style of the analog Nixon watches and turn them into modern digital watch faces.<br /><br />I kept the design light and simple to provide a good readability on the screen and a good balance between the background design and the datas. I defined rules to create an elegant and simple pattern design following this principle: For the surf, the elements are related to wavy shapes as the water, like the waves in the ocean, drops and fluid shapes whereas for the snowboard I used rigid shapes with straight lines and hard edges to symbolize the cold ice and snow.",
+					"image": "/images/projects/10-Nixon/1.jpg"
+				},
+				{
+					"image": "/images/projects/10-Nixon/2.jpg"
+				},
+				{
+					"desc":"After a couple of design explorations, I plugged the surf datas in the design to see how the watch screen would look like.In those next watches, I kept the pattern idea for the background and tried to use photos to make it feel more personal to the user. ",
+					"image": "/images/projects/10-Nixon/3.jpg"
+				},
+				{
+					"desc":"CLASSIC WITH ABSTRACT BACKGROUND<br /><br />The more I explored this direction and the more I thought the lines in the background were a nice solution to be more than just graphics and communicate something else: the power of the waves. The design of the wave lines could change depending on the wave size and weather conditions.",
+					"image": "/images/projects/10-Nixon/4.jpg"
+				},
+				{
+					"desc":"HIGH TECH VS SIMPLE WATCH<br /><br />At some point I started to question myself. What does the user want? The most information possible at a glance or a simple watch face with a second layer for more details?",
+					"image": "/images/projects/10-Nixon/5.jpg"
+				},
+				{
+					"desc":"FINAL DIRECTION<br /><br />After I figured out the right amount of informations on screen, I created something more settle by using an image in the background as a texture and kept a line at the bottom to visualize the waves.",
+					"image": "/images/projects/10-Nixon/6.jpg"
+				},
+				{
+					"desc":"The final design is a version similar to the last explorations. The user can upload pictures from their phone library to customize the background. An abstract photo of water or snow is used by default.",
+					"image": "/images/projects/10-Nixon/7.jpg"
+				},
+				{
+					"image": "/images/projects/10-Nixon/8.jpg"
+				},
+				{
+					"image": "/images/projects/10-Nixon/9.jpg"
+				},
+				{
+					"desc":"In addition to the principal watch face design, I also reproduced digital version of some existing physical Nixon watches for the launch of their new product on the market. The design were done using Adobe Illustrator & FontStruct to create the Display LCD Regular font.",
+					"image": "/images/projects/10-Nixon/10.jpg"
+				},
+				{
+					"image": "/images/projects/10-Nixon/11.jpg"
+				},
+				{
+					"image": "/images/projects/10-Nixon/12.jpg"
+				},
+				{
+					"image": "/images/projects/10-Nixon/13.jpg"
+				}
+			]
+		},
+		{ 
+			"id": "project-11",
+			"title": "GOOGLE EARTH STUDIO",
+			"imageFeat": "/images/projects/11-Google_Earth_Studio/feat_googleearthstudio.jpg",
+			"desc":"Google Earth Studio is an animation tool for Google Earth’s satellite and 3D imagery.<br /><br />Google Earth has a massive store of satellite and aerial (3D) imagery from large-scale geological features to individual city buildings. Earth Studio is the easiest way to leverage this imagery for still and animated content. Here are some of the explorations I realized for the design of this product icon.",
+			"credits":"ART DIRECTION   •   LIONEL TAURUS<br />COMPANY   •   B-REEL",
+			"url":"https://www.google.com/earth/studio/",
+			"slides": [
+				{
+					"image": "/images/projects/11-Google_Earth_Studio/1.jpg"
+				},
+				{
+					"image": "/images/projects/11-Google_Earth_Studio/2.jpg"
+				},
+				{
+					"image": "/images/projects/11-Google_Earth_Studio/3.jpg"
+				},
+				{
+					"image": "/images/projects/11-Google_Earth_Studio/4.jpg"
+				}
+			]
+		},
+		{ 
+			"id": "project-12",
+			"title": "FACEBOOK GROUPS",
+			"imageFeat": "/images/projects/12-Facebook_groups/feat_facebookgroups.jpg",
+			"desc":"Facebook Groups are spaces on the social media network for friends, acquaintances, or people with similar interests to discuss or share about broad or narrow topics. Groups provide an arena for organic discussion about your products or services and present the opportunity to cultivate brand awareness.<br /><br />Share what you care about with the people who care about it most. From wireframes to design, here's a part of the design development I created for the release of this app by Facebook.",
+			"credits":"DESIGN   •   LIONEL TAURUS<br />COMPANY   •   B-REEL",
+			"url":"https://about.fb.com/news/2014/11/introducing-the-facebook-groups-app/",
+			"slides": [
+				{
+					"desc":"My first exploration was to create a website around stories of different groups. The idea was to make a layout similar to a lifestyle blog exposing the content of what could be share in the facebook groups application.",
+					"image": "/images/projects/12-Facebook_groups/1.jpg"
+				},
+				{
+					"desc":"The dots are used to display different stories on a vertical scrolling page. Once you click on getting started, you have a panel sliding in with videos about how to use the product.",
+					"image": "/images/projects/12-Facebook_groups/2.jpg"
+				},
+				{
+					"image": "/images/projects/12-Facebook_groups/3.jpg"
+				},
+				{
+					"image": "/images/projects/12-Facebook_groups/4.jpg"
+				},
+				{
+					"image": "/images/projects/12-Facebook_groups/5.jpg"
+				},
+				{
+					"image": "/images/projects/12-Facebook_groups/6.jpg"
+				},
+				{
+					"image": "/images/projects/12-Facebook_groups/7.jpg"
+				},
+				{
+					"desc":"Another idea was to invite the user in a playful interactive website where you were able to slide in all directions images or videos of different types of groups till the discovery of the Facebook Groups logotype.",
+					"image": "/images/projects/12-Facebook_groups/8.jpg"
+				},
+				{
+					"desc":"Groups exist when people share common interests. To represent this bond between people, I wanted to create a design similar to a constellation system showcasing various groups by dots of different colors with the content in the center of page.",
+					"image": "/images/projects/12-Facebook_groups/9.jpg"
+				},
+				{
+					"desc":"After all the previous research and experimentations, I tried to keep the best ideas in a simple layout.<br />The first section with a video header displaying groups of people to express a feeling of what this application was about. A second section section with a scrollable group conversation within the product itself to highlight the UI. A third section with informations about how to get started and the last part with the download links.",
+					"image": "/images/projects/12-Facebook_groups/10.jpg"
+				},
+				{
+					"image": "/images/projects/12-Facebook_groups/11.jpg"
+				},
+				{
+					"image": "/images/projects/12-Facebook_groups/12.jpg"
+				},
+				{
+					"desc":"Another idea was to bring the user to a small journey from a memory to the Facebook Groups apps.<br />By using circles to isolate faces of people in a group of friends, we show how we can bring back memories to one single place to remember and plan the next journey with Facebook Groups.",
+					"image": "/images/projects/12-Facebook_groups/13.jpg"
+				},
+				{
+					"desc":"The final website design is using a simple structure, the first part is a carousel with images of groups. The second is a carousel of the main features of the application. The last, the download part.",
+					"image": "/images/projects/12-Facebook_groups/14.jpg"
+				},
+				{
+					"image": "/images/projects/12-Facebook_groups/15.jpg"
+				}
+			]
+		},
+		{ 
+			"id": "project-13",
+			"title": "INTERNET.ORG",
+			"imageFeat": "/images/projects/13-Internet_org/feat_internetorg.jpg",
+			"desc":"The more we connect, the better it gets.<br /><br />Internet.org is a partnership between social networking services company Facebook and six companies that plans to bring affordable access to selected Internet services to less developed countries by increasing efficiency, and facilitating the development of new business models around the provision of Internet access.<br /><br />Here is  my design exploration from the concept to the final product.",
+			"credits":"DESIGN   •   LIONEL TAURUS<br />COMPANY   •   B-REEL",
+			"slides": [
+				{
+					"desc":"My first idea was to create a map to expose the difference between the two third of the world connected and the one third disconnected by using lights and lines connections. By exploring the map world, you discover points highlighted but not connected with stories about people who don't have access to the internet.",
+					"image": "/images/projects/13-Internet_org/1.jpg"
+				},
+				{
+					"image": "/images/projects/13-Internet_org/2.jpg"
+				},
+				{
+					"image": "/images/projects/13-Internet_org/3.jpg"
+				},
+				{
+					"desc":"A second idea was to invite the user to realize simple interactions as he was reading the content, by sliding or scrolling elements, to reveal the messages of the campaign and traverse the different stories.",
+					"image": "/images/projects/13-Internet_org/4.jpg"
+				},
+				{
+					"desc":"Another concept was to divide the mobile screen in 3 parts to symbolize the one third of the world not connected. Touching this isolated piece would have made you dive into the story of the individual not connected to the internet.",
+					"image": "/images/projects/13-Internet_org/5.jpg"
+				},
+				{
+					"desc":"In this concept, the idea was to allow the user to virtually connect the one third of the world not on the internet with the rest of the world by switching a button to activate the connections. Once activated, you discover the stories.",
+					"image": "/images/projects/13-Internet_org/6.jpg"
+				},
+				{
+					"desc":"Once we had the stories assets, we decided to use more images than graphics and abstract elements to reinforce the storytelling side of the project.",
+					"image": "/images/projects/13-Internet_org/7.jpg"
+				},
+				{
+					"image": "/images/projects/13-Internet_org/8.jpg"
+				},
+				{
+					"desc":"The final design is a beautiful storytelling piece that uses imagery and videos as primary assets to share the inspiring life of entrepreneurial creative individuals not connected to the world.",
+					"image": "/images/projects/13-Internet_org/9.jpg"
+				},
+				{
+					"image": "/images/projects/13-Internet_org/10.jpg"
+				},
+				{
+					"image": "/images/projects/13-Internet_org/11.jpg"
+				},
+				{
+					"image": "/images/projects/13-Internet_org/12.jpg"
+				},
+				{
+					"image": "/images/projects/13-Internet_org/13.jpg"
+				},
+				{
+					"image": "/images/projects/13-Internet_org/14.jpg"
+				}
+			]
+		},
+		{ 
+			"id": "project-14",
+			"title": "ELEMENT",
+			"imageFeat": "/images/projects/14-Element/feat_element.jpg",
+			"desc":"Take your board, meet a community of skateboarders and ride for pride in urban spots. Element is a skateboarding & apparel American brand, founded in 1992 by Johnny Schillereff, that believes in being the best in the most ethical.<br /><br />I created with Clement Pavageau this concept app to allow skateboarders from all levels to meet and gather in urban spots to challenge themselves. The app concept is for the brand to organizes geo-located challenges in the city. By posting videos of their best tricks via the element app, the riders can win prizes and discounts on Element products. They can also discover more skateboarding spots and see how many people are at specific spots.",
+			"credits":"CONCEPT   •   LIONEL TAURUS & CLEMENT PAVAGEAU<br />ART DIRECTION   •   LIONEL TAURUS<br />PERSONAL PROJECT   •   LIONEL TAURUS",
+			"slides": [
+				{	
+					"desc":"EXPLORE THE STREETS<br /><br />Discover new secret places and challenge other riders. Spots are tagged in the map of your town by the community of skaters and the element team.",
+					"image": "/images/projects/14-Element/1.jpg"
+				},
+				{
+					"desc":"SMART MAP<br /><br />Each spot display the number of skaters riding at this spot so you can avoid a crowd or take it as an opportunity to meet people skate with.<br />You can also see the level of this spot and the number of videos published there.",
+					"image": "/images/projects/14-Element/2.jpg"
+				},
+				{
+					"desc":"CHOOSE A CONTEST<br /><br />On each spots around you, there's different contest with different level, it could be something simple from an ollie to some something crazier.<br />Be creative.",
+					"image": "/images/projects/14-Element/3.jpg"
+				},
+				{
+					"desc":"SUBMIT YOUR VIDEO<br /><br />You think you made your best trick? Submit your video and let the community decide if you deserve to win the contest.",
+					"image": "/images/projects/14-Element/4.jpg"
+				},
+				{
+					"desc":"DISCOVER THE BRAND<br /><br />The app also allows you to discover the brand and shop on top of doing contests. You can explore more about the team, their stories and look for the latest skateboarding videos of the Element Team.",
+					"image": "/images/projects/14-Element/5.jpg"
+				},
+				{
+					"image": "/images/projects/14-Element/6.jpg"
+				},
+				{
+					"image": "/images/projects/14-Element/7.jpg"
+				},
+				{
+					"image": "/images/projects/14-Element/8.jpg"
+				}
+			]
+		},
+		{ 
+			"id": "project-15",
+			"title": "FACEBOOK PAPER",
+			"imageFeat": "/images/projects/15-Facebook_Paper/feat_facebookpaper.jpg",
+			"desc":"Facebook Paper was a standalone mobile app created by Facebook, only for iOS, that intended to serve as a phone-based equivalent of a newspaper or magazine.<br /><br />The app was announced by Facebook on January 30, 2014, and released for iOS on February 3, 2014. I created a couple of 3D concepts that never got released for the promotion of this app. Here are some of them.",
+			"credits":"3D   •   LIONEL TAURUS<br />COMPANY   •   B-REEL",
+			"url":"https://about.fb.com/news/2014/01/introducing-paper-stories-from-facebook-2/",
+			"slides": [
+				{
+					"image": "/images/projects/15-Facebook_Paper/1.jpg"
+				},
+				{
+					"image": "/images/projects/15-Facebook_Paper/2.jpg"
+				},
+				{
+					"image": "/images/projects/15-Facebook_Paper/3.jpg"
+				},
+				{
+					"image": "/images/projects/15-Facebook_Paper/4.jpg"
+				},
+				{
+					"image": "/images/projects/15-Facebook_Paper/5.jpg"
+				},
+				{
+					"image": "/images/projects/15-Facebook_Paper/6.jpg"
+				},
+				{
+					"image": "/images/projects/15-Facebook_Paper/7.jpg"
+				}
+			]
+		},
+		{ 
+			"id": "project-16",
+			"title": "AERIAL",
+			"imageFeat": "/images/projects/16-Aerial/feat_aerial.png",
+			"desc":"Aerial is the easiest, most accurate way to manage your carbon footprint. By tracking your exact carbon emissions, Aerial makes offsetting your carbon footprint as simple as a tap. The app is fun and easy to use.<br /><br />Here are some of the design explorations I’ve executed for the branding of this company.",
+			"credits":"3D   •   LIONEL TAURUS<br />ART DIRECTION   •   LIONEL TAURUS",
+			"url":"https://aerial.is/",
+			"slides": [
+				{
+					"image": "/images/projects/16-Aerial/1.png"
+				},
+				{
+					"image": "/images/projects/16-Aerial/2.png"
+				},
+				{
+					"image": "/images/projects/16-Aerial/3.png"
+				},
+				{
+					"image": "/images/projects/16-Aerial/4.png"
+				},
+				{
+					"image": "/images/projects/16-Aerial/5.png"
+				},
+				{
+					"image": "/images/projects/16-Aerial/6.png"
+				},
+				{
+					"image": "/images/projects/16-Aerial/7.png"
+				},
+				{
+					"image": "/images/projects/16-Aerial/8.png"
+				},
+				{
+					"image": "/images/projects/16-Aerial/9.png"
+				},
+				{
+					"image": "/images/projects/16-Aerial/10.png"
+				},
+				{
+					"image": "/images/projects/16-Aerial/11.png"
+				},
+				{
+					"image": "/images/projects/16-Aerial/12.png"
+				},
+				{
+					"image": "/images/projects/16-Aerial/13.png"
+				},
+				{
+					"image": "/images/projects/16-Aerial/14.png"
+				},
+				{
+					"image": "/images/projects/16-Aerial/15.png"
+				}
+			]
+		},
+		{ 
+			"id": "project-17",
+			"title": "CARTOON HANDS",
+			"imageFeat": "/images/projects/17-Cartoon/feat_cartoon.png",
+			"desc": "Cartoon hands is a free collection of 3D homemade crafted hands to use for your design and illustrations! The hands are made out of components in Figma so you can make your own and create variants. You can customize everything easily and make something unique for your design. Feel free to use!",
+			"credits": "ART DIRECTION & 3D   •   LIONEL TAURUS<br />PERSONAL PROJECT",
+			"url":"https://www.figma.com/community/file/990218169140929445",
+			"slides": [
+				{
+					"image": "/images/projects/17-Cartoon/cartoon_1.png"
+				},
+				{
+					"image": "/images/projects/17-Cartoon/cartoon_2.png"
+				},
+				{
+					"image": "/images/projects/17-Cartoon/cartoon_3.png"
+				},
+				{
+					"image": "/images/projects/17-Cartoon/cartoon_4.png"
+				},
+				{
+					"image": "/images/projects/17-Cartoon/cartoon_5.png"
+				},
+				{
+					"image": "/images/projects/17-Cartoon/cartoon_6.png"
+				},
+				{
+					"image": "/images/projects/17-Cartoon/cartoon_7.png"
+				},
+				{
+					"image": "/images/projects/17-Cartoon/cartoon_8.png"
+				}
+			]
+		}				
+	],
+	"archives": [
+		{
+			"title": "Abstract Crystals",
+			"images": [
+					"/images/archives/abstract_crystal_1.png",
+					"/images/archives/abstract_crystal_2.png"
+				],
+			"category": "3D"
+		},
+		{
+			"title": "Aerial",
+			"images": [
+					"/images/archives/aerial_1.png",
+					"/images/archives/aerial_2.png",
+					"/images/archives/aerial_3.png",
+					"/images/archives/aerial_4.png",
+					"/images/archives/aerial_5.png"
+				],
+			"category": "BRANDING"
+		},
+		{
+			"title": "Bureau du Design studio",
+			"images": [
+					"/images/archives/background-FDG.jpg"
+				],
+			"category": "3D"
+		},
+		{
+			"title": "The Baddass Chase",
+			"images": [
+					"/images/archives/baddass_chase_1.png",
+					"/images/archives/baddass_chase_2.png",
+					"/images/archives/baddass_chase_3.png"
+				],
+			"category": "GAME DESIGN"
+		},
+		{
+			"title": "BB&V",
+			"images": [
+					"/images/archives/bbandv_00.png",
+					"/images/archives/bbandv_01.png",
+					"/images/archives/bbandv_02.png",
+					"/images/archives/bbandv_03.png",
+					"/images/archives/bbandv_04.png",
+					"/images/archives/bbandv_05.png",
+					"/images/archives/bbandv_06.png"
+				],
+			"category": "ILLUSTRATIONS"
+		},
+		{
+			"title": "Bird",
+			"images": [
+					"/images/archives/bird_1.jpg",
+					"/images/archives/bird_2.jpg",
+					"/images/archives/bird_3.jpg",
+					"/images/archives/bird_4.jpg",
+					"/images/archives/bird_5.jpg"
+				],
+			"category": "ILLUSTRATIONS"
+		},
+		{
+			"title": "Prototype Camera Design",
+			"images": [
+					"/images/archives/camera_pro_1.jpg"
+				],
+			"category": "3D"
+		},
+		{
+			"title": "Cartoon City",
+			"images": [
+					"/images/archives/cartoon_city_1.png",
+					"/images/archives/cartoon_city_2.png",
+					"/images/archives/cartoon_city_3.png",
+					"/images/archives/cartoon_city_4.png",
+					"/images/archives/cartoon_city_5.png"
+				],
+			"category": "3D"
+		},
+		{
+			"title": "SQUARESPACE Hackweek 2020",
+			"images": [
+					"/images/archives/cool_train_1.jpg",
+					"/images/archives/cool_train_2.jpg",
+					"/images/archives/cool_train_3.jpg",
+					"/images/archives/cool_train_4.jpg",
+					"/images/archives/cool_train_5.jpg",
+					"/images/archives/cool_train_6.jpg",
+					"/images/archives/cool_train_7.jpg",
+					"/images/archives/cool_train_8.jpg"
+				],
+			"category": "3D"
+		},
+		{
+			"title": "Crocodile Island pendant for Alex Oka",
+			"images": [
+					"/images/archives/crocodile_island.png"
+				],
+			"category": "PRODUCT DESIGN"
+		},
+		{
+			"title": "David CARSON website concept",
+			"images": [
+					"/images/archives/david_carson_1.png",
+					"/images/archives/david_carson_2.png",
+					"/images/archives/david_carson_3.png",
+					"/images/archives/david_carson_4.png",
+					"/images/archives/david_carson_5.png",
+					"/images/archives/david_carson_6.png",
+					"/images/archives/david_carson_7.png"
+				],
+			"category": "WEB DESIGN"
+		},
+		{
+			"title": "Emoji Book",
+			"images": [
+					"/images/archives/emoji_book.jpg"
+				],
+			"category": "ILLUSTRATIONS"
+		},
+		{
+			"title": "Facebook Audience",
+			"images": [
+					"/images/archives/Facebook-Audience_1.jpg",
+					"/images/archives/Facebook-Audience_2.jpg"
+				],
+			"category": "WEB DESIGN"
+		},
+		{
+			"title": "Still Life 1",
+			"images": [
+					"/images/archives/flowers.jpg"
+				],
+			"category": "3D"
+		},
+		{
+			"title": "GADAMN Album Cover",
+			"images": [
+					"/images/archives/Gadamn_01.jpg",
+					"/images/archives/Gadamn_02.jpg",
+					"/images/archives/Gadamn_03.jpg",
+					"/images/archives/Gadamn_04.jpg",
+					"/images/archives/Gadamn_05.jpg",
+					"/images/archives/Gadamn_06.jpg",
+					"/images/archives/Gadamn_07.jpg",
+					"/images/archives/Gadamn_08.jpg",
+					"/images/archives/Gadamn_09.jpg",
+					"/images/archives/Gadamn_10.jpg",
+					"/images/archives/Gadamn_11.jpg",
+					"/images/archives/Gadamn_12.jpg",
+					"/images/archives/Gadamn_13.jpg"
+				],
+			"category": "BRANDING"
+		},
+		{
+			"title": "SQSP Gradients",
+			"images": [
+					"/images/archives/gradient_1.png",
+					"/images/archives/gradient_2.png",
+					"/images/archives/gradient_3.png"
+				],
+			"category": "ILLUSTRATIONS"
+		},
+		{
+			"title": "Pendant Concept for Alex Oka",
+			"images": [
+					"/images/archives/grenade_1.png"
+				],
+			"category": "3D"
+		},
+		{
+			"title": "SQSP Gaming Templates Concept",
+			"images": [
+					"/images/archives/intralight_1.png",
+					"/images/archives/intralight_2.png",
+					"/images/archives/intralight_3.png",
+					"/images/archives/intralight_4.png",
+					"/images/archives/intralight_5.png",
+					"/images/archives/intralight_6.png",
+					"/images/archives/intralight_7.png",
+					"/images/archives/intralight_8.png",
+					"/images/archives/intralight_9.png",
+					"/images/archives/intralight_10.png",
+					"/images/archives/intralight_11.png",
+					"/images/archives/intralight_12.png",
+					"/images/archives/intralight_13.png",
+					"/images/archives/intralight_14.png",
+					"/images/archives/intralight_15.png"
+				],
+			"category": "WEB DESIGN & 3D"
+		},
+		{
+			"title": "LEIA .inc Industry",
+			"images": [
+					"/images/archives/leia_1.jpg",
+					"/images/archives/leia_2.jpg",
+					"/images/archives/leia_3.jpg"
+				],
+			"category": "3D"
+		},
+		{
+			"title": "QUADRITOWN by LONGCHAMP",
+			"images": [
+					"/images/archives/longchamp_1.jpg",
+					"/images/archives/longchamp_2.jpg",
+					"/images/archives/longchamp_3.jpg",
+					"/images/archives/longchamp_4.jpg",
+					"/images/archives/longchamp_5.jpg",
+					"/images/archives/longchamp_6.jpg",
+					"/images/archives/longchamp_7.jpg",
+					"/images/archives/longchamp_8.jpg"				
+				],
+			"category": "GAME DESIGN"
+		},
+		{
+			"title": "TALES OF HEROES",
+			"images": [
+					"/images/archives/modernHero_1.jpg",
+					"/images/archives/modernHero_2.jpg",	
+					"/images/archives/modernHero_3.jpg",	
+					"/images/archives/modernHero_4.jpg",	
+					"/images/archives/modernHero_5.jpg"
+				],
+			"category": "GAME DESIGN"
+		},
+		{
+			"title": "One Piece, The New World",
+			"images": [
+					"/images/archives/onepiece.jpg"
+				],
+			"category": "ILLUSTRATIONS"
+		},
+		{
+			"title": "Lionel Taurus Photography",
+			"images": [
+					"/images/archives/portfolio_photo_01.png",
+					"/images/archives/portfolio_photo_02.png",
+					"/images/archives/portfolio_photo_03.png",
+					"/images/archives/portfolio_photo_04.png"
+				],
+			"category": "WEB DESIGN"
+		},
+		{
+			"title": "Dieter Rams Poster",
+			"images": [
+					"/images/archives/Poster_Rams.png"
+				],
+			"category": "GRAPHIC DESIGN & 3D"
+		},
+		{
+			"title": "Retro Radio Raheem",
+			"images": [
+					"/images/archives/radio_1.png",
+					"/images/archives/radio_2.png",
+					"/images/archives/radio_3.png"
+				],
+			"category": "3D"
+		},
+		{
+			"title": "SQUARESPACE Abstract Product Background",
+			"images": [
+					"/images/archives/sqsp_abstract_product_1.png",
+					"/images/archives/sqsp_abstract_product_2.png",
+					"/images/archives/sqsp_abstract_product_3.png",
+					"/images/archives/sqsp_abstract_product_4.png",
+					"/images/archives/sqsp_abstract_product_5.png",
+					"/images/archives/sqsp_abstract_product_6.png",
+					"/images/archives/sqsp_abstract_product_7.png",
+					"/images/archives/sqsp_abstract_product_8.png"				
+				],
+			"category": "3D"
+		},
+		{
+			"title": "SQUARESPACE Blog Post",
+			"images": [
+					"/images/archives/sqsp_blog_1.png",
+					"/images/archives/sqsp_blog_2.png",
+					"/images/archives/sqsp_blog_3.png",
+					"/images/archives/sqsp_blog_4.png"
+				],
+			"category": "3D"
+		},
+		{
+			"title": "SQUARESPACE Brand Guidelines",
+			"images": [
+					"/images/archives/sqsp_brand_guidelines_1.png",
+					"/images/archives/sqsp_brand_guidelines_2.png",
+					"/images/archives/sqsp_brand_guidelines_3.png",
+					"/images/archives/sqsp_brand_guidelines_4.png",
+					"/images/archives/sqsp_brand_guidelines_5.png"
+				],
+			"category": "WEB DESIGN & 3D"
+		},
+		{
+			"title": "SQUARESPACE Templates Background",
+			"images": [
+					"/images/archives/sqsp_template_background_1.png",
+					"/images/archives/sqsp_template_background_2.jpg",
+					"/images/archives/sqsp_template_background_3.jpg",
+					"/images/archives/sqsp_template_background_4.jpg",
+					"/images/archives/sqsp_template_background_5.jpg",
+					"/images/archives/sqsp_template_background_6.jpg",
+					"/images/archives/sqsp_template_background_7.jpg",
+					"/images/archives/sqsp_template_background_8.jpg",
+					"/images/archives/sqsp_template_background_9.jpg",
+					"/images/archives/sqsp_template_background_10.jpg",
+					"/images/archives/sqsp_template_background_11.jpg",
+					"/images/archives/sqsp_template_background_12.jpg",
+					"/images/archives/sqsp_template_background_13.jpg"
+				],
+			"category": "WEB DESIGN & 3D"
+		},
+		{
+			"title": "SQUARESPACE 3D Background Concepts",
+			"images": [
+					"/images/archives/sqsp-background_1.png",
+					"/images/archives/sqsp-background_2.png",
+					"/images/archives/sqsp-background_3.png",
+					"/images/archives/sqsp-background_4.png",
+					"/images/archives/sqsp-background_5.png",
+					"/images/archives/sqsp-background_6.png",
+					"/images/archives/sqsp-background_7.png",
+					"/images/archives/sqsp-background_8.png",
+					"/images/archives/sqsp-background_9.png",
+					"/images/archives/sqsp-background_10.png"				
+				],
+			"category": "WEB DESIGN & 3D"
+		},
+		{
+			"title": "Still Life 2",
+			"images": [
+					"/images/archives/still.png"
+				],
+			"category": "3D"
+		},
+		{
+			"title": "VC SWIPE Concepts",
+			"images": [
+					"/images/archives/vc_1.png",
+					"/images/archives/vc_2.png",
+					"/images/archives/vc_3.png",
+					"/images/archives/vc_4.png"
+				],
+			"category": "WEB DESIGN & 3D"
+		},
+		{
+			"title": "Smartwatches Concept Design",
+			"images": [
+					"/images/archives/watch.jpg"
+				],
+			"category": "3D"
+		},
+		{
+			"title": "WLDLGHT",
+			"images": [
+					"/images/archives/wldlght_1.png",
+					"/images/archives/wldlght_2.png",
+					"/images/archives/wldlght_3.png",
+					"/images/archives/wldlght_4.png",
+					"/images/archives/wldlght_5.png",
+					"/images/archives/wldlght_6.png",
+					"/images/archives/wldlght_7.png",
+					"/images/archives/wldlght_8.png",
+					"/images/archives/wldlght_9.png"
+				],
+			"category": "WEB DESIGN & 3D"
+		}
+	]
+}
