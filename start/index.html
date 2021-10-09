@@ -1,0 +1,1176 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <title>Seeyou | Design, Build, Development Website </title>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no"/>
+        <meta name="description" content="Seeyou | Design, Build, Development Website. Get your best website design and great development with Seeyou."/>
+        <meta property="og:site_name" content="Seeyou"/>
+        <meta property="og:title" content="Seeyou | Theme Design, Build, Development Website"/>
+        <meta property="og:type" content="website"/>
+        <meta property="og:description" content="Seeyou | Design, Build, Development Website. Get your dream website design and great development with Seeyou."/>
+        <meta property="og:image" content="https://seeyoudesign.website/assets/images/share.jpg"/>
+        <meta property="og:image:type" content="image/jpeg"/>
+        <meta property="og:image:width" content="1280"/>
+        <meta property="og:image:height" content="800"/>
+        <meta property="og:url" content="https://seeyoudesign.website/start/"/>
+        <meta property="twitter:card" content="summary_large_image"/>
+        <link rel="canonical" href="https://seeyoudesign.website/start/"/>
+        <link href="https://fonts.googleapis.com/css?family=Roboto:100,100italic" rel="stylesheet" type="text/css"/>
+        <style>
+            html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video {
+                margin: 0;
+                padding: 0;
+                border: 0;
+                font-size: 100%;
+                font: inherit;
+                vertical-align: baseline;
+            }
+
+            article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
+                display: block;
+            }
+
+            body {
+                line-height: 1;
+            }
+
+            ol,ul {
+                list-style: none;
+            }
+
+            blockquote,q {
+                quotes: none;
+            }
+
+            blockquote:before,blockquote:after,q:before,q:after {
+                content: '';
+                content: none;
+            }
+
+            table {
+                border-collapse: collapse;
+                border-spacing: 0;
+            }
+
+            body {
+                -webkit-text-size-adjust: none
+            }
+
+            mark {
+                background-color: transparent;
+                color: inherit
+            }
+
+            input::-moz-focus-inner {
+                border: 0;
+                padding: 0
+            }
+
+            input[type="text"],input[type="email"],select,textarea {
+                -moz-appearance: none;
+                -webkit-appearance: none;
+                -ms-appearance: none;
+                appearance: none
+            }
+
+            *, *:before, *:after {
+                box-sizing: border-box;
+            }
+
+            body {
+                min-width: 320px;
+                min-height: var(--viewport-height);
+                line-height: 1.0;
+                word-wrap: break-word;
+                overflow-x: hidden;
+            }
+
+            body:before {
+                content: '';
+                display: block;
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100vw;
+                height: var(--background-height);
+                z-index: 0;
+                pointer-events: none;
+                transform: scale(1);
+                background-attachment: scroll;
+                background-image: linear-gradient(to top, rgba(31,31,31,0.851), rgba(31,31,31,0.851)), url('https://seeyoudesign.website/assets/images/bg.png');
+                background-position: 0% 0%, center;
+                background-repeat: repeat, repeat;
+                background-size: auto, cover;
+                background-color: #FFFFFF;
+            }
+
+            body:after {
+                display: block;
+                content: '';
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background-color: #1F1F1F;
+                z-index: 1;
+                opacity: 0;
+                visibility: hidden;
+                transition: opacity 1s ease-in-out 0s, visibility 1s 0s;
+                transform: scale(1);
+            }
+
+            body.is-loading:after {
+                opacity: 1;
+                visibility: visible;
+            }
+
+            :root {
+                --site-language-direction: ltr;
+                --site-language-alignment: left;
+                --viewport-height: 100vh;
+                --background-height: 100vh;
+            }
+
+            html {
+                font-size: 18pt;
+            }
+
+            u {
+                text-decoration: underline;
+            }
+
+            strong {
+                color: inherit;
+                font-weight: bolder;
+            }
+
+            em {
+                font-style: italic;
+            }
+
+            code {
+                font-family: 'Lucida Console', 'Courier New', monospace;
+                font-weight: normal;
+                text-indent: 0;
+                letter-spacing: 0;
+                font-size: 0.9em;
+                margin: 0 0.25em;
+                padding: 0.25em 0.5em;
+                background-color: rgba(144,144,144,0.25);
+                border-radius: 0.25em;
+            }
+
+            mark {
+                background-color: rgba(144,144,144,0.25);
+            }
+
+            s {
+                text-decoration: line-through;
+            }
+
+            a {
+                color: inherit;
+                text-decoration: underline;
+                transition: color 0.25s ease;
+            }
+
+            #wrapper {
+                -webkit-overflow-scrolling: touch;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                min-height: var(--viewport-height);
+                position: relative;
+                z-index: 2;
+                overflow: hidden;
+            }
+
+            #main {
+                display: flex;
+                position: relative;
+                max-width: 100%;
+                z-index: 1;
+                align-items: center;
+                justify-content: center;
+                flex-grow: 0;
+                flex-shrink: 0;
+                text-align: center;
+                transition: opacity 1.5s ease-in-out 0.5s;
+            }
+
+            #main > .inner {
+                position: relative;
+                z-index: 1;
+                border-radius: inherit;
+                padding: 3.75rem 3rem;
+                max-width: 100%;
+                width: 40rem;
+            }
+
+            #main > .inner > * {
+                margin-top: 1.5rem;
+                margin-bottom: 1.5rem;
+            }
+
+            #main > .inner > :first-child {
+                margin-top: 0 !important;
+            }
+
+            #main > .inner > :last-child {
+                margin-bottom: 0 !important;
+            }
+
+            #main > .inner > .full {
+                margin-left: calc(-3rem);
+                width: calc(100% + 6rem + 0.4725px);
+                max-width: calc(100% + 6rem + 0.4725px);
+            }
+
+            #main > .inner > .full:first-child {
+                margin-top: -3.75rem !important;
+                border-top-left-radius: inherit;
+                border-top-right-radius: inherit;
+            }
+
+            #main > .inner > .full:last-child {
+                margin-bottom: -3.75rem !important;
+                border-bottom-left-radius: inherit;
+                border-bottom-right-radius: inherit;
+            }
+
+            #main > .inner > .full.screen {
+                width: 100vw;
+                max-width: 100vw;
+                position: relative;
+                border-radius: 0 !important;
+                left: 50%;
+                right: auto;
+                margin-left: -50vw;
+            }
+
+            body.is-loading #main {
+                opacity: 0;
+            }
+
+            body.is-instant #main, body.is-instant #main > .inner > *,body.is-instant #main > .inner > section > * {
+                transition: none !important;
+            }
+
+            body.is-instant:after {
+                display: none !important;
+                transition: none !important;
+            }
+
+            h1, h2, h3, p {
+                direction: var(--site-language-direction);
+            }
+
+            h1 br + br, h2 br + br, h3 br + br, p br + br {
+                display: block;
+                content: ' ';
+            }
+
+            h1 .li, h2 .li, h3 .li, p .li {
+                display: list-item;
+                padding-left: 0.5em;
+                margin: 0.75em 0 0 1em;
+            }
+
+            #text02 br + br {
+                margin-top: 0.9rem;
+            }
+
+            #text02 {
+                color: #FFFFFF;
+                font-family: 'Roboto', sans-serif;
+                font-size: 2.5em;
+                line-height: 1.5;
+                font-weight: 100;
+            }
+
+            #text02 a {
+                text-decoration: underline;
+            }
+
+            #text02 a:hover {
+                text-decoration: none;
+            }
+
+            #text01 br + br {
+                margin-top: 1.05rem;
+            }
+
+            #text01 {
+                color: #FFFFFF;
+                font-family: 'Roboto', sans-serif;
+                font-size: 1em;
+                line-height: 1.75;
+                font-weight: 100;
+            }
+
+            #text01 a {
+                text-decoration: underline;
+            }
+
+            #text01 a:hover {
+                text-decoration: none;
+            }
+
+            hr {
+                width: 100%;
+                position: relative;
+                padding: 0;
+                border: 0;
+            }
+
+            hr:before {
+                content: '';
+                display: inline-block;
+                vertical-align: middle;
+                max-width: 100%;
+            }
+
+            #divider02:not(:first-child) {
+                margin-top: 0.25rem !important;
+            }
+
+            #divider02:not(:last-child) {
+                margin-bottom: 0.25rem !important;
+            }
+
+            #divider02:before {
+                width: 5rem;
+                border-top: solid 1px #FFFFFF;
+                height: 1px;
+                margin-top: -0.5px;
+            }
+
+            .buttons {
+                cursor: default;
+                padding: 0;
+                letter-spacing: 0;
+            }
+
+            .buttons li a {
+                align-items: center;
+                justify-content: center;
+                max-width: 100%;
+                text-align: center;
+                text-decoration: none;
+                vertical-align: middle;
+                white-space: nowrap;
+            }
+
+            #buttons01 {
+                width: calc(100% + 1.375rem);
+                margin-left: -0.6875rem;
+            }
+
+            #buttons01 li {
+                display: inline-block;
+                vertical-align: middle;
+                max-width: calc(100% - 1.375rem);
+                margin: 0.6875rem;
+            }
+
+            #buttons01 li a {
+                display: flex;
+                width: 12.75rem;
+                height: 3.25rem;
+                line-height: 3.25rem;
+                vertical-align: middle;
+                padding: 0 1.625rem;
+                font-size: 1.125em;
+                font-family: 'Roboto', sans-serif;
+                font-weight: 100;
+                border-radius: 0.5rem;
+                direction: var(--site-language-direction);
+                transition: color 0.25s ease, background-color 0.25s ease, border-color 0.25s ease;
+            }
+
+            #buttons01 .button {
+                color: #FFFFFF;
+                border: solid 1px #FFFFFF;
+            }
+
+            .icons {
+                cursor: default;
+                padding: 0;
+                letter-spacing: 0;
+            }
+
+            .icons li {
+                display: inline-block;
+                vertical-align: middle;
+                position: relative;
+                z-index: 1;
+            }
+
+            .icons li a {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+
+            .icons li a svg {
+                display: block;
+                position: relative;
+            }
+
+            .icons li a + svg {
+                display: block;
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                z-index: -1;
+                pointer-events: none;
+            }
+
+            .icons li a .label {
+                display: none;
+            }
+
+            #icons01 {
+                font-size: 1.25em;
+                width: calc(100% + 1.875rem);
+                margin-left: -0.9375rem;
+            }
+
+            #icons01 li {
+                margin: 0.9375rem;
+            }
+
+            #icons01 li a {
+                width: 1em;
+                height: 1em;
+                transition: color 0.25s ease, background-color 0.25s ease, border-color 0.25s ease;
+            }
+
+            #icons01 li a svg {
+                width: 100%;
+                height: 100%;
+                transition: fill 0.25s ease;
+            }
+
+            #icons01 a svg {
+                fill: #FFFFFF;
+            }
+
+            #icons01 li a + svg {
+                transition: fill 0.25s ease, stroke 0.25s ease;
+            }
+
+            @media (max-width: 1680px) {
+                html {
+                    font-size: 13pt;
+                }
+            }
+
+            @media (max-width: 1280px) {
+                html {
+                    font-size: 13pt;
+                }
+            }
+
+            @media (max-width: 980px) {
+                html {
+                    font-size: 11pt;
+                }
+            }
+
+            @media (max-width: 736px) {
+                html {
+                    font-size: 11pt;
+                }
+
+                #main > .inner {
+                    padding: 3.5rem 2rem;
+                }
+
+                #main > .inner > * {
+                    margin-top: 1.5rem;
+                    margin-bottom: 1.5rem;
+                }
+
+                #main > .inner > .full {
+                    margin-left: calc(-2rem);
+                    width: calc(100% + 4rem + 0.4725px);
+                    max-width: calc(100% + 4rem + 0.4725px);
+                }
+
+                #main > .inner > .full:first-child {
+                    margin-top: -3.5rem !important;
+                }
+
+                #main > .inner > .full:last-child {
+                    margin-bottom: -3.5rem !important;
+                }
+
+                #main > .inner > .full.screen {
+                    margin-left: -50vw;
+                }
+
+                #text02 {
+                    letter-spacing: 0rem;
+                    width: 100%;
+                    font-size: 2.5em;
+                    line-height: 1.5;
+                }
+
+                #text01 {
+                    letter-spacing: 0rem;
+                    width: 100%;
+                    font-size: 1em;
+                    line-height: 1.75;
+                }
+
+                #divider02:not(:first-child) {
+                    margin-top: 0.25rem !important;
+                }
+
+                #divider02:not(:last-child) {
+                    margin-bottom: 0.25rem !important;
+                }
+
+                #divider02:before {
+                    width: 5rem;
+                }
+
+                #buttons01 li a {
+                    font-size: 1.125em;
+                    letter-spacing: 0rem;
+                }
+
+                #icons01 {
+                    font-size: 1.25em;
+                    width: calc(100% + 1.875rem);
+                    margin-left: -0.9375rem;
+                }
+
+                #icons01 li {
+                    margin: 0.9375rem;
+                }
+            }
+
+            @media (max-width: 480px) {
+                #main > .inner > * {
+                    margin-top: 1.3125rem;
+                    margin-bottom: 1.3125rem;
+                }
+
+                #buttons01 {
+                    margin-left: 0;
+                    width: 100%;
+                    padding: 0.6875rem 0;
+                }
+
+                #buttons01 li {
+                    max-width: 100%;
+                    display: block;
+                    margin: 1.375rem 0;
+                }
+
+                #buttons01 li:first-child {
+                    margin-top: 0;
+                }
+
+                #buttons01 li:last-child {
+                    margin-bottom: 0;
+                }
+
+                #buttons01 li a {
+                    display: inline-flex;
+                    width: 100%;
+                    max-width: 32rem;
+                }
+            }
+
+            @media (max-width: 360px) {
+                #main > .inner {
+                    padding: 2.625rem 1.5rem;
+                }
+
+                #main > .inner > * {
+                    margin-top: 1.125rem;
+                    margin-bottom: 1.125rem;
+                }
+
+                #main > .inner > .full {
+                    margin-left: calc(-1.5rem);
+                    width: calc(100% + 3rem + 0.4725px);
+                    max-width: calc(100% + 3rem + 0.4725px);
+                }
+
+                #main > .inner > .full:first-child {
+                    margin-top: -2.625rem !important;
+                }
+
+                #main > .inner > .full:last-child {
+                    margin-bottom: -2.625rem !important;
+                }
+
+                #main > .inner > .full.screen {
+                    margin-left: -50vw;
+                }
+
+                #text02 {
+                    font-size: 2em;
+                }
+
+                #text01 {
+                    font-size: 1em;
+                }
+
+                #buttons01 {
+                    width: 100%;
+                    margin-left: 0;
+                    padding: 0.515625rem 0;
+                }
+
+                #buttons01 li {
+                    max-width: 100%;
+                    margin: 1.03125rem 0;
+                }
+
+                #icons01 {
+                    width: calc(100% + 1.40625rem);
+                    margin-left: -0.703125rem;
+                }
+
+                #icons01 li {
+                    margin: 0.703125rem;
+                }
+            }
+        </style>
+        <noscript>
+            <style>
+                body {
+                    overflow: auto !important;
+                }
+
+                body:after {
+                    display: none !important;
+                }
+
+                #main > .inner {
+                    opacity: 1.0 !important;
+                }
+
+                #main {
+                    opacity: 1.0 !important;
+                    transform: none !important;
+                    transition: none !important;
+                    filter: none !important;
+                }
+            </style>
+        </noscript>
+    </head>
+    <body class="is-loading">
+        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40" display="none" width="0" height="0">
+            <symbol id="icon-90a" viewBox="0 0 40 40">
+                <path d="M37.3,15.3v15.3c0,0.8-0.3,1.6-0.9,2.2c-0.6,0.6-1.4,0.9-2.2,0.9H5.8c-0.8,0-1.6-0.3-2.2-0.9s-0.9-1.4-0.9-2.2V15.3 c0.5,0.6,1.2,1.1,2,1.7c4.7,3.1,7.9,5.4,9.6,6.7c0.7,0.5,1.4,0.9,1.8,1.2c0.4,0.3,1,0.6,1.9,0.9c0.7,0.3,1.5,0.5,2.1,0.5l0,0 c0.6,0,1.4-0.2,2.1-0.5c0.7-0.3,1.4-0.6,1.9-0.9c0.4-0.3,1-0.7,1.8-1.2c2.2-1.6,5.4-3.8,9.6-6.7C36.1,16.5,36.7,15.9,37.3,15.3 L37.3,15.3z M37.3,9.6c0,1-0.3,2-0.9,2.9c-0.6,0.9-1.5,1.8-2.4,2.4c-4.9,3.3-7.9,5.4-9,6.2c-0.1,0.1-0.4,0.3-0.8,0.6 c-0.4,0.3-0.7,0.5-1,0.7c-0.3,0.2-0.6,0.4-1,0.6c-0.4,0.2-0.7,0.4-1.1,0.5c-0.4,0.1-0.6,0.2-0.9,0.2l0,0c-0.3,0-0.6-0.1-0.9-0.2 c-0.3-0.1-0.7-0.3-1.1-0.5c-0.4-0.2-0.7-0.4-1-0.6c-0.3-0.2-0.6-0.4-1-0.7c-0.4-0.3-0.7-0.5-0.8-0.6c-1.1-0.8-2.8-2-5.1-3.5 c-2.3-1.6-3.3-2.4-3.7-2.7c-0.8-0.5-1.6-1.2-2.3-2.2s-1-1.9-1-2.6c0-1,0.3-1.9,0.8-2.5c0.5-0.6,1.2-1,2.3-1h28.4 c0.8,0,1.6,0.3,2.2,0.9C37.1,8.1,37.3,8.8,37.3,9.6L37.3,9.6z"/>
+            </symbol>
+            <symbol id="icon-906" viewBox="0 0 40 40">
+                <path d="M27.2,4.7v4.9h-2.9c-1.1,0-1.8,0.2-2.1,0.6c-0.4,0.5-0.6,1.1-0.6,2v3.5H27l-0.7,5.4h-4.7v14H16v-14h-4.7v-5.4H16v-4.1 c0-2.3,0.6-4.1,1.9-5.3s2.9-1.9,5.2-1.9C24.8,4.4,26.2,4.5,27.2,4.7L27.2,4.7z"/>
+            </symbol>
+            <symbol id="icon-907" viewBox="0 0 40 40">
+                <path d="M36,20.3c0,3.5-1,6.6-3.1,9.4c-2,2.8-4.7,4.7-7.9,5.8c-0.4,0.1-0.6,0-0.8-0.1c-0.2-0.2-0.3-0.4-0.3-0.6v-4.4 c0-1.3-0.4-2.3-1.1-3c0.8-0.1,1.5-0.2,2.1-0.4c0.6-0.2,1.3-0.4,2-0.8c0.7-0.4,1.2-0.8,1.7-1.4c0.5-0.5,0.8-1.3,1.1-2.2 s0.4-2,0.4-3.1c0-1.7-0.5-3.1-1.6-4.3c0.5-1.3,0.5-2.7-0.2-4.2c-0.4-0.1-1,0-1.7,0.2c-0.7,0.3-1.4,0.6-1.9,0.9L24,12.5 c-1.3-0.4-2.6-0.5-4-0.5s-2.7,0.2-4,0.5c-0.2-0.2-0.5-0.3-0.9-0.6c-0.4-0.2-0.9-0.5-1.7-0.8c-0.8-0.3-1.4-0.4-1.8-0.3 c-0.6,1.6-0.7,3-0.1,4.2c-1.1,1.2-1.6,2.6-1.6,4.3c0,1.2,0.1,2.2,0.4,3.1s0.6,1.6,1.1,2.2s1,1,1.7,1.4c0.7,0.4,1.3,0.6,2,0.8 c0.6,0.2,1.3,0.3,2.1,0.4c-0.6,0.5-0.9,1.2-1,2.1c-0.3,0.1-0.6,0.2-0.9,0.3c-0.3,0.1-0.7,0.1-1.2,0.1c-0.5,0-0.9-0.1-1.4-0.4 c-0.5-0.3-0.8-0.7-1.2-1.3c-0.3-0.4-0.6-0.8-1-1.1c-0.4-0.3-0.8-0.4-1-0.5L9,26.5c-0.3,0-0.5,0-0.6,0.1c-0.1,0.1-0.1,0.1-0.1,0.2 c0,0.1,0.1,0.2,0.2,0.3c0.1,0.1,0.2,0.2,0.3,0.2l0.1,0.1c0.3,0.1,0.6,0.4,0.9,0.8s0.5,0.7,0.7,1.1l0.2,0.5c0.2,0.5,0.5,1,0.9,1.3 c0.4,0.3,0.9,0.5,1.4,0.6c0.5,0.1,1,0.1,1.4,0.1c0.5,0,0.9,0,1.2-0.1l0.5-0.1c0,0.5,0,1.1,0,1.9c0,0.7,0,1.1,0,1.1 c0,0.2-0.1,0.5-0.3,0.6c-0.2,0.2-0.5,0.2-0.8,0.1c-3.2-1.1-5.8-3-7.9-5.8S4,23.8,4,20.3c0-2.9,0.7-5.6,2.1-8S9.5,7.8,12,6.4 s5.1-2.1,8-2.1s5.6,0.7,8,2.1s4.4,3.4,5.8,5.8S36,17.4,36,20.3L36,20.3z"/>
+            </symbol>
+            <symbol id="icon-905" viewBox="0 0 40 40">
+                <path d="M36.3,10.2c-1,1.3-2.1,2.5-3.4,3.5c0,0.2,0,0.4,0,1c0,1.7-0.2,3.6-0.9,5.3c-0.6,1.7-1.2,3.5-2.4,5.1 c-1.1,1.5-2.3,3.1-3.7,4.3c-1.4,1.2-3.3,2.3-5.3,3c-2.1,0.8-4.2,1.2-6.6,1.2c-3.6,0-7-1-10.2-3c0.4,0,1.1,0.1,1.5,0.1 c3.1,0,5.9-1,8.2-2.9c-1.4,0-2.7-0.4-3.8-1.3c-1.2-1-1.9-2-2.2-3.3c0.4,0.1,1,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-1.4-0.3-2.7-1.1-3.7-2.3s-1.4-2.6-1.4-4.2v-0.1c1,0.6,2,0.9,3,0.9c-1-0.6-1.5-1.3-2.2-2.4c-0.6-1-0.9-2.1-0.9-3.3s0.3-2.3,1-3.4 c1.5,2.1,3.6,3.6,6,4.9s4.9,2,7.6,2.1c-0.1-0.6-0.1-1.1-0.1-1.4c0-1.8,0.8-3.5,2-4.7c1.2-1.2,2.9-2,4.7-2c2,0,3.6,0.8,4.8,2.1 c1.4-0.3,2.9-0.9,4.2-1.5c-0.4,1.5-1.4,2.7-2.9,3.6C33.8,11.2,35.1,10.9,36.3,10.2L36.3,10.2z"/>
+            </symbol>
+        </svg>
+        <div id="wrapper">
+            <div id="main">
+                <div class="inner">
+                    <h1 id="text02">Seeyou</h1>
+                    <hr id="divider02">
+                    <p id="text01">Thank you all for supporting us. We try to give our Best Work for You, We Work For People. <br> Now our team has prepared several templates or designs as examples, which you can choose from our best results for you Project's.</p>
+                    <ul id="buttons01" class="buttons">
+                        <li>
+                            <a href="https://theme.seeyoudesign.website/" class="button n01">Theme</a>
+                        </li>
+                        <li>
+                            <a href="https://seeyoudesign.website/" class="button n02">Visit our Website</a>
+                        </li>
+                    </ul>
+                    <ul id="icons01" class="icons">
+                        <li>
+                            <a class="n01" href="https://bit.ly/tgseeyou">
+                                <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M0 20C0 31.0457 8.9543 40 20 40C31.0457 40 40 31.0457 40 20C40 8.9543 31.0457 0 20 0C8.9543 0 0 8.9543 0 20ZM16.3333 29.1667L16.6736 24.0685L16.6733 24.0683L25.9474 15.6992C26.3545 15.3379 25.8586 15.1618 25.3182 15.4894L13.8727 22.7103L8.92891 21.1672C7.86126 20.8403 7.85359 20.1067 9.16861 19.5792L28.4336 12.1507C29.3135 11.7513 30.1627 12.3621 29.8268 13.7088L26.546 29.1693C26.3169 30.2679 25.6531 30.5307 24.7333 30.0232L19.7356 26.3308L17.3333 28.6667C17.3258 28.674 17.3182 28.6814 17.3107 28.6887C17.0421 28.9502 16.8198 29.1667 16.3333 29.1667Z" fill="white"/>
+                                </svg>                                    
+                                <span class="label">Telegram</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a class="n02" href="https://bit.ly/igseeyou">
+                                <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M20 0C8.9543 0 0 8.9543 0 20C0 31.0457 8.9543 40 20 40C31.0457 40 40 31.0457 40 20C40 8.9543 31.0457 0 20 0ZM15.6027 9.39779C16.7405 9.34601 17.1041 9.33334 20.001 9.33334H19.9977C22.8955 9.33334 23.2577 9.34601 24.3955 9.39779C25.5311 9.44979 26.3066 9.62957 26.9866 9.89335C27.6889 10.1656 28.2822 10.53 28.8755 11.1234C29.4689 11.7163 29.8333 12.3114 30.1067 13.0129C30.3689 13.6912 30.5489 14.4663 30.6022 15.6019C30.6533 16.7396 30.6667 17.1032 30.6667 20.0001C30.6667 22.897 30.6533 23.2597 30.6022 24.3975C30.5489 25.5326 30.3689 26.308 30.1067 26.9864C29.8333 27.6878 29.4689 28.2829 28.8755 28.8758C28.2829 29.4691 27.6886 29.8344 26.9873 30.1069C26.3086 30.3707 25.5326 30.5505 24.3971 30.6025C23.2593 30.6542 22.8968 30.6669 19.9997 30.6669C17.103 30.6669 16.7396 30.6542 15.6019 30.6025C14.4665 30.5505 13.6912 30.3707 13.0125 30.1069C12.3114 29.8344 11.7163 29.4691 11.1236 28.8758C10.5305 28.2829 10.166 27.6878 9.89335 26.9862C9.62979 26.308 9.45001 25.5328 9.39779 24.3973C9.34623 23.2595 9.33334 22.897 9.33334 20.0001C9.33334 17.1032 9.34667 16.7394 9.39756 15.6016C9.44868 14.4665 9.62868 13.6912 9.89313 13.0127C10.1665 12.3114 10.5309 11.7163 11.1242 11.1234C11.7171 10.5302 12.3123 10.1658 13.0138 9.89335C13.6921 9.62957 14.4672 9.44979 15.6027 9.39779Z" fill="white"/>
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M19.044 11.2556C19.2298 11.2553 19.4297 11.2554 19.6454 11.2555L20.0009 11.2556C22.8489 11.2556 23.1865 11.2658 24.3111 11.3169C25.3512 11.3645 25.9156 11.5383 26.2916 11.6843C26.7894 11.8776 27.1443 12.1087 27.5174 12.4821C27.8907 12.8554 28.1219 13.211 28.3156 13.7087C28.4616 14.0843 28.6356 14.6487 28.683 15.6888C28.7341 16.8132 28.7452 17.151 28.7452 19.9977C28.7452 22.8444 28.7341 23.1822 28.683 24.3066C28.6354 25.3466 28.4616 25.9111 28.3156 26.2866C28.1223 26.7844 27.8907 27.1389 27.5174 27.512C27.1441 27.8853 26.7896 28.1164 26.2916 28.3098C25.9161 28.4564 25.3512 28.6298 24.3111 28.6773C23.1867 28.7284 22.8489 28.7396 20.0009 28.7396C17.1526 28.7396 16.8151 28.7284 15.6906 28.6773C14.6506 28.6293 14.0862 28.4556 13.7099 28.3096C13.2121 28.1162 12.8566 27.8851 12.4832 27.5118C12.1099 27.1384 11.8788 26.7838 11.685 26.2858C11.539 25.9102 11.365 25.3457 11.3177 24.3057C11.2666 23.1813 11.2563 22.8435 11.2563 19.995C11.2563 17.1465 11.2666 16.8105 11.3177 15.6861C11.3652 14.6461 11.539 14.0816 11.685 13.7056C11.8784 13.2078 12.1099 12.8523 12.4832 12.4789C12.8566 12.1056 13.2121 11.8745 13.7099 11.6807C14.0859 11.534 14.6506 11.3607 15.6906 11.3129C16.6746 11.2685 17.056 11.2552 19.044 11.2529V11.2556ZM25.6947 13.0267C24.988 13.0267 24.4147 13.5994 24.4147 14.3063C24.4147 15.013 24.988 15.5863 25.6947 15.5863C26.4014 15.5863 26.9747 15.013 26.9747 14.3063C26.9747 13.5996 26.4014 13.0263 25.6947 13.0263V13.0267ZM14.5231 20.0001C14.5231 16.9751 16.9756 14.5224 20.0007 14.5223C23.0258 14.5223 25.4778 16.975 25.4778 20.0001C25.4778 23.0253 23.026 25.4769 20.0009 25.4769C16.9758 25.4769 14.5231 23.0253 14.5231 20.0001Z" fill="white"/>
+                                    <path d="M20.0009 16.4445C21.9645 16.4445 23.5565 18.0363 23.5565 20.0001C23.5565 21.9637 21.9645 23.5557 20.0009 23.5557C18.0371 23.5557 16.4453 21.9637 16.4453 20.0001C16.4453 18.0363 18.0371 16.4445 20.0009 16.4445V16.4445Z" fill="white"/>
+                                </svg>                                    
+                                <span class="label">Instagram</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a class="n03" href="https://bit.ly/fbseeyou">
+                                <svg>
+                                    <use xlink:href="#icon-906"></use>
+                                </svg>
+                                <span class="label">Facebook</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a class="n04" href="https://bit.ly/waseeyou">
+                                <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M0 20C0 31.0457 8.9543 40 20 40C31.0457 40 40 31.0457 40 20C40 8.9543 31.0457 0 20 0C8.9543 0 0 8.9543 0 20ZM32.5518 19.2346C32.5492 25.7902 27.2163 31.1244 20.6592 31.1271H20.6543C18.6639 31.1264 16.7082 30.627 14.9711 29.6795L8.66668 31.3333L10.3539 25.1707C9.31313 23.3671 8.7655 21.3212 8.76639 19.2252C8.769 12.6681 14.104 7.33333 20.6591 7.33333C23.8405 7.3347 26.8265 8.57321 29.0719 10.8212C31.3172 13.069 32.5531 16.0569 32.5518 19.2346Z" fill="white"/>
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M11.5222 28.508L15.2633 27.5266L15.6243 27.7408C17.1419 28.6414 18.8816 29.1179 20.6553 29.1186H20.6593C26.1075 29.1186 30.5417 24.6843 30.5439 19.2339C30.5449 16.5927 29.5177 14.1092 27.6515 12.2408C25.7853 10.3724 23.3034 9.34296 20.6632 9.34204C15.2109 9.34204 10.7766 13.7759 10.7744 19.2259C10.7736 21.0937 11.2962 22.9126 12.2857 24.4864L12.5207 24.8604L11.5222 28.508ZM26.2438 21.7951C26.451 21.8952 26.591 21.9629 26.6507 22.0626C26.725 22.1865 26.725 22.7815 26.4775 23.4757C26.2298 24.1698 25.0426 24.8033 24.4717 24.8886C23.9597 24.9652 23.3119 24.9971 22.6001 24.7709C22.1685 24.6339 21.615 24.4511 20.906 24.1449C18.1202 22.942 16.2376 20.242 15.8818 19.7317C15.8569 19.696 15.8395 19.671 15.8297 19.658L15.8273 19.6548C15.6701 19.4449 14.6164 18.039 14.6164 16.584C14.6164 15.2152 15.2887 14.4978 15.5982 14.1675C15.6194 14.1449 15.6389 14.1241 15.6564 14.105C15.9288 13.8075 16.2507 13.7331 16.4488 13.7331C16.6469 13.7331 16.8452 13.735 17.0183 13.7437C17.0397 13.7447 17.0619 13.7446 17.0849 13.7445C17.2581 13.7435 17.4739 13.7422 17.6869 14.2538C17.7688 14.4506 17.8887 14.7425 18.0152 15.0504C18.2709 15.6729 18.5534 16.3607 18.6031 16.4602C18.6774 16.6089 18.7269 16.7824 18.6279 16.9808C18.613 17.0106 18.5993 17.0386 18.5861 17.0655C18.5117 17.2173 18.457 17.3291 18.3307 17.4765C18.2811 17.5345 18.2298 17.597 18.1784 17.6594C18.0762 17.784 17.974 17.9084 17.885 17.9971C17.7362 18.1453 17.5814 18.3061 17.7547 18.6036C17.928 18.9011 18.5244 19.8741 19.4078 20.6621C20.3574 21.5091 21.1827 21.8671 21.6011 22.0486C21.6828 22.084 21.7489 22.1127 21.7975 22.137C22.0945 22.2858 22.2679 22.2609 22.4412 22.0626C22.6146 21.8643 23.1841 21.1949 23.3821 20.8975C23.5802 20.6001 23.7784 20.6496 24.0507 20.7487C24.3232 20.848 25.7841 21.5668 26.0813 21.7155C26.1393 21.7446 26.1935 21.7708 26.2438 21.7951Z" fill="white"/>
+                                </svg>
+                                <span class="label">Whatsapp</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <script>
+            (function() {
+                var on = addEventListener
+                  , $ = function(q) {
+                    return document.querySelector(q)
+                }
+                  , $$ = function(q) {
+                    return document.querySelectorAll(q)
+                }
+                  , $body = document.body
+                  , $inner = $('.inner')
+                  , client = (function() {
+                    var o = {
+                        browser: 'other',
+                        browserVersion: 0,
+                        os: 'other',
+                        osVersion: 0,
+                        mobile: false,
+                        canUse: null
+                    }, ua = navigator.userAgent, a, i;
+                    a = [['firefox', /Firefox\/([0-9\.]+)/], ['edge', /Edge\/([0-9\.]+)/], ['safari', /Version\/([0-9\.]+).+Safari/], ['chrome', /Chrome\/([0-9\.]+)/], ['chrome', /CriOS\/([0-9\.]+)/], ['ie', /Trident\/.+rv:([0-9]+)/]];
+                    for (i = 0; i < a.length; i++) {
+                        if (ua.match(a[i][1])) {
+                            o.browser = a[i][0];
+                            o.browserVersion = parseFloat(RegExp.$1);
+                            break;
+                        }
+                    }
+                    a = [['ios', /([0-9_]+) like Mac OS X/, function(v) {
+                        return v.replace('_', '.').replace('_', '');
+                    }
+                    ], ['ios', /CPU like Mac OS X/, function(v) {
+                        return 0
+                    }
+                    ], ['ios', /iPad; CPU/, function(v) {
+                        return 0
+                    }
+                    ], ['android', /Android ([0-9\.]+)/, null], ['mac', /Macintosh.+Mac OS X ([0-9_]+)/, function(v) {
+                        return v.replace('_', '.').replace('_', '');
+                    }
+                    ], ['windows', /Windows NT ([0-9\.]+)/, null], ['undefined', /Undefined/, null], ];
+                    for (i = 0; i < a.length; i++) {
+                        if (ua.match(a[i][1])) {
+                            o.os = a[i][0];
+                            o.osVersion = parseFloat(a[i][2] ? (a[i][2])(RegExp.$1) : RegExp.$1);
+                            break;
+                        }
+                    }
+                    if (o.os == 'mac' && ('ontouchstart'in window) && ((screen.width == 1024 && screen.height == 1366) || (screen.width == 834 && screen.height == 1112) || (screen.width == 810 && screen.height == 1080) || (screen.width == 768 && screen.height == 1024)))
+                        o.os = 'ios';
+                    o.mobile = (o.os == 'android' || o.os == 'ios');
+                    var _canUse = document.createElement('div');
+                    o.canUse = function(p) {
+                        var e = _canUse.style
+                          , up = p.charAt(0).toUpperCase() + p.slice(1);
+                        return (p in e || ('Moz' + up)in e || ('Webkit' + up)in e || ('O' + up)in e || ('ms' + up)in e);
+                    }
+                    ;
+                    return o;
+                }())
+                  , trigger = function(t) {
+                    if (client.browser == 'ie') {
+                        var e = document.createEvent('Event');
+                        e.initEvent(t, false, true);
+                        dispatchEvent(e);
+                    } else
+                        dispatchEvent(new Event(t));
+                }
+                  , cssRules = function(selectorText) {
+                    var ss = document.styleSheets, a = [], f = function(s) {
+                        var r = s.cssRules, i;
+                        for (i = 0; i < r.length; i++) {
+                            if (r[i]instanceof CSSMediaRule && matchMedia(r[i].conditionText).matches)
+                                (f)(r[i]);
+                            else if (r[i]instanceof CSSStyleRule && r[i].selectorText == selectorText)
+                                a.push(r[i]);
+                        }
+                    }, x, i;
+                    for (i = 0; i < ss.length; i++)
+                        f(ss[i]);
+                    return a;
+                }
+                  , thisHash = function() {
+                    var h = location.hash ? location.hash.substring(1) : null, a;
+                    if (!h)
+                        return null;
+                    if (h.match(/\?/)) {
+                        a = h.split('?');
+                        h = a[0];
+                        history.replaceState(undefined, undefined, '#' + h);
+                        window.location.search = a[1];
+                    }
+                    if (h.length > 0 && !h.match(/^[a-zA-Z]/))
+                        h = 'x' + h;
+                    if (typeof h == 'string')
+                        h = h.toLowerCase();
+                    return h;
+                }
+                  , scrollToElement = function(e, style, duration) {
+                    var y, cy, dy, start, easing, offset, f;
+                    if (!e)
+                        y = 0;
+                    else {
+                        offset = (e.dataset.scrollOffset ? parseInt(e.dataset.scrollOffset) : 0) * parseFloat(getComputedStyle(document.documentElement).fontSize);
+                        switch (e.dataset.scrollBehavior ? e.dataset.scrollBehavior : 'default') {
+                        case 'default':
+                        default:
+                            y = e.offsetTop + offset;
+                            break;
+                        case 'center':
+                            if (e.offsetHeight < window.innerHeight)
+                                y = e.offsetTop - ((window.innerHeight - e.offsetHeight) / 2) + offset;
+                            else
+                                y = e.offsetTop - offset;
+                            break;
+                        case 'previous':
+                            if (e.previousElementSibling)
+                                y = e.previousElementSibling.offsetTop + e.previousElementSibling.offsetHeight + offset;
+                            else
+                                y = e.offsetTop + offset;
+                            break;
+                        }
+                    }
+                    if (!style)
+                        style = 'smooth';
+                    if (!duration)
+                        duration = 750;
+                    if (style == 'instant') {
+                        window.scrollTo(0, y);
+                        return;
+                    }
+                    start = Date.now();
+                    cy = window.scrollY;
+                    dy = y - cy;
+                    switch (style) {
+                    case 'linear':
+                        easing = function(t) {
+                            return t
+                        }
+                        ;
+                        break;
+                    case 'smooth':
+                        easing = function(t) {
+                            return t < .5 ? 4 * t * t * t : (t - 1) * (2 * t - 2) * (2 * t - 2) + 1
+                        }
+                        ;
+                        break;
+                    }
+                    f = function() {
+                        var t = Date.now() - start;
+                        if (t >= duration)
+                            window.scroll(0, y);
+                        else {
+                            window.scroll(0, cy + (dy * easing(t / duration)));
+                            requestAnimationFrame(f);
+                        }
+                    }
+                    ;
+                    f();
+                }
+                  , scrollToTop = function() {
+                    scrollToElement(null);
+                }
+                  , loadElements = function(parent) {
+                    var a, e, x, i;
+                    a = parent.querySelectorAll('iframe[data-src]:not([data-src=""])');
+                    for (i = 0; i < a.length; i++) {
+                        a[i].src = a[i].dataset.src;
+                        a[i].dataset.src = "";
+                    }
+                    a = parent.querySelectorAll('video[autoplay]');
+                    for (i = 0; i < a.length; i++) {
+                        if (a[i].paused)
+                            a[i].play();
+                    }
+                    e = parent.querySelector('[data-autofocus="1"]');
+                    x = e ? e.tagName : null;
+                    switch (x) {
+                    case 'FORM':
+                        e = e.querySelector('.field input, .field select, .field textarea');
+                        if (e)
+                            e.focus();
+                        break;
+                    default:
+                        break;
+                    }
+                }
+                  , unloadElements = function(parent) {
+                    var a, e, x, i;
+                    a = parent.querySelectorAll('iframe[data-src=""]');
+                    for (i = 0; i < a.length; i++) {
+                        if (a[i].dataset.srcUnload === '0')
+                            continue;
+                        a[i].dataset.src = a[i].src;
+                        a[i].src = '';
+                    }
+                    a = parent.querySelectorAll('video');
+                    for (i = 0; i < a.length; i++) {
+                        if (!a[i].paused)
+                            a[i].pause();
+                    }
+                    e = $(':focus');
+                    if (e)
+                        e.blur();
+                };
+                window._scrollToTop = scrollToTop;
+                var thisURL = function() {
+                    return window.location.href.replace(window.location.search, '').replace(/#$/, '');
+                };
+                var getVar = function(name) {
+                    var a = window.location.search.substring(1).split('&'), b, k;
+                    for (k in a) {
+                        b = a[k].split('=');
+                        if (b[0] == name)
+                            return b[1];
+                    }
+                    return null;
+                };
+                var errors = {
+                    handle: function(handler) {
+                        window.onerror = function(message, url, line, column, error) {
+                            (handler)(error.message);
+                            return true;
+                        }
+                        ;
+                    },
+                    unhandle: function() {
+                        window.onerror = null;
+                    }
+                };
+                on('load', function() {
+                    setTimeout(function() {
+                        $body.className = $body.className.replace(/\bis-loading\b/, 'is-playing');
+                        setTimeout(function() {
+                            $body.className = $body.className.replace(/\bis-playing\b/, 'is-ready');
+                        }, 2000);
+                    }, 100);
+                });
+                loadElements(document.body);
+                var style, sheet, rule;
+                style = document.createElement('style');
+                style.appendChild(document.createTextNode(''));
+                document.head.appendChild(style);
+                sheet = style.sheet;
+                if (client.mobile) {
+                    (function() {
+                        var f = function() {
+                            document.documentElement.style.setProperty('--viewport-height', window.innerHeight + 'px');
+                            document.documentElement.style.setProperty('--background-height', (window.innerHeight + 250) + 'px');
+                        };
+                        on('load', f);
+                        on('resize', f);
+                        on('orientationchange', function() {
+                            setTimeout(function() {
+                                (f)();
+                            }, 100);
+                        });
+                    }
+                    )();
+                }
+                if (client.os == 'android') {
+                    (function() {
+                        sheet.insertRule('body::after { }', 0);
+                        rule = sheet.cssRules[0];
+                        var f = function() {
+                            rule.style.cssText = 'height: ' + (Math.max(screen.width, screen.height)) + 'px';
+                        };
+                        on('load', f);
+                        on('orientationchange', f);
+                        on('touchmove', f);
+                    }
+                    )();
+                    $body.classList.add('is-touch');
+                } else if (client.os == 'ios') {
+                    if (client.osVersion <= 11)
+                        (function() {
+                            sheet.insertRule('body::after { }', 0);
+                            rule = sheet.cssRules[0];
+                            rule.style.cssText = '-webkit-transform: scale(1.0)';
+                        }
+                        )();
+                    if (client.osVersion <= 11)
+                        (function() {
+                            sheet.insertRule('body.ios-focus-fix::before { }', 0);
+                            rule = sheet.cssRules[0];
+                            rule.style.cssText = 'height: calc(100% + 60px)';
+                            on('focus', function(event) {
+                                $body.classList.add('ios-focus-fix');
+                            }, true);
+                            on('blur', function(event) {
+                                $body.classList.remove('ios-focus-fix');
+                            }, true);
+                        }
+                        )();
+                    $body.classList.add('is-touch');
+                } else if (client.browser == 'ie') {
+                    if (!('matches'in Element.prototype))
+                        Element.prototype.matches = (Element.prototype.msMatchesSelector || Element.prototype.webkitMatchesSelector);
+                    (function() {
+                        var a = cssRules('body::before'), r;
+                        if (a.length > 0) {
+                            r = a[0];
+                            if (r.style.width.match('calc')) {
+                                r.style.opacity = 0.9999;
+                                setTimeout(function() {
+                                    r.style.opacity = 1;
+                                }, 100);
+                            } else {
+                                document.styleSheets[0].addRule('body::before', 'content: none !important;');
+                                $body.style.backgroundImage = r.style.backgroundImage.replace('url("https://seeyoudesign/images/', 'url("https://seeyoudesign/assets/images/');
+                                $body.style.backgroundPosition = r.style.backgroundPosition;
+                                $body.style.backgroundRepeat = r.style.backgroundRepeat;
+                                $body.style.backgroundColor = r.style.backgroundColor;
+                                $body.style.backgroundAttachment = 'fixed';
+                                $body.style.backgroundSize = r.style.backgroundSize;
+                            }
+                        }
+                    }
+                    )();
+                    (function() {
+                        var t, f;
+                        f = function() {
+                            var mh, h, s, xx, x, i;
+                            x = $('#wrapper');
+                            x.style.height = 'auto';
+                            if (x.scrollHeight <= innerHeight)
+                                x.style.height = '100vh';
+                            xx = $$('.container.full');
+                            for (i = 0; i < xx.length; i++) {
+                                x = xx[i];
+                                s = getComputedStyle(x);
+                                x.style.minHeight = '';
+                                x.style.height = '';
+                                mh = s.minHeight;
+                                x.style.minHeight = 0;
+                                x.style.height = '';
+                                h = s.height;
+                                if (mh == 0)
+                                    continue;
+                                x.style.height = (h > mh ? 'auto' : mh);
+                            }
+                        }
+                        ;
+                        (f)();
+                        on('resize', function() {
+                            clearTimeout(t);
+                            t = setTimeout(f, 250);
+                        });
+                        on('load', f);
+                    }
+                    )();
+                } else if (client.browser == 'edge') {
+                    (function() {
+                        var xx = $$('.container > .inner > div:last-child'), x, y, i;
+                        for (i = 0; i < xx.length; i++) {
+                            x = xx[i];
+                            y = getComputedStyle(x.parentNode);
+                            if (y.display != 'flex' && y.display != 'inline-flex')
+                                continue;
+                            x.style.marginLeft = '-1px';
+                        }
+                    }
+                    )();
+                }
+                if (!client.canUse('object-fit')) {
+                    (function() {
+                        var xx = $$('.image[data-position]'), x, w, c, i, src;
+                        for (i = 0; i < xx.length; i++) {
+                            x = xx[i];
+                            c = x.firstElementChild;
+                            if (c.tagName != 'IMG') {
+                                w = c;
+                                c = c.firstElementChild;
+                            }
+                            if (c.parentNode.classList.contains('deferred')) {
+                                c.parentNode.classList.remove('deferred');
+                                src = c.getAttribute('data-src');
+                                c.removeAttribute('data-src');
+                            } else
+                                src = c.getAttribute('src');
+                            c.style['backgroundImage'] = 'url(\'' + src + '\')';
+                            c.style['backgroundSize'] = 'cover';
+                            c.style['backgroundPosition'] = x.dataset.position;
+                            c.style['backgroundRepeat'] = 'no-repeat';
+                            c.src = 'data:image/svg+xml;charset=utf8,' + escape('<svg xmlns="http://www.w3.org/2000/svg" width="1" height="1" viewBox="0 0 1 1"></svg>');
+                            if (x.classList.contains('full') && (x.parentNode && x.parentNode.classList.contains('full')) && (x.parentNode.parentNode && x.parentNode.parentNode.parentNode && x.parentNode.parentNode.parentNode.classList.contains('container')) && x.parentNode.children.length == 1) {
+                                (function(x, w) {
+                                    var p = x.parentNode.parentNode, f = function() {
+                                        x.style['height'] = '0px';
+                                        clearTimeout(t);
+                                        t = setTimeout(function() {
+                                            if (getComputedStyle(p).flexDirection == 'row') {
+                                                if (w)
+                                                    w.style['height'] = '100%';
+                                                x.style['height'] = (p.scrollHeight + 1) + 'px';
+                                            } else {
+                                                if (w)
+                                                    w.style['height'] = 'auto';
+                                                x.style['height'] = 'auto';
+                                            }
+                                        }, 125);
+                                    }, t;
+                                    on('resize', f);
+                                    on('load', f);
+                                    (f)();
+                                }
+                                )(x, w);
+                            }
+                        }
+                    }
+                    )();
+                    (function() {
+                        var xx = $$('.gallery img'), x, p, i, src;
+                        for (i = 0; i < xx.length; i++) {
+                            x = xx[i];
+                            p = x.parentNode;
+                            if (p.classList.contains('deferred')) {
+                                p.classList.remove('deferred');
+                                src = x.getAttribute('data-src');
+                            } else
+                                src = x.getAttribute('src');
+                            p.style['backgroundImage'] = 'url(\'' + src + '\')';
+                            p.style['backgroundSize'] = 'cover';
+                            p.style['backgroundPosition'] = 'center';
+                            p.style['backgroundRepeat'] = 'no-repeat';
+                            x.style['opacity'] = '0';
+                        }
+                    }
+                    )();
+                }
+            }
+            )();
+        </script>
+    </body>
+</html>
