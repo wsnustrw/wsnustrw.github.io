@@ -4,6 +4,7 @@
         "email": "[email protected]"
     },
     "records": {
-        "CNAME": "wsnustrw.github.io"
+        "CNAME": "wsnustrw.github.io",
+        "TXT": "65f65d60e03c9351bbd50f82ef5204"
     }
 }
